@@ -80,7 +80,11 @@ def main():
     
     try:
         # 获取场景图片列表
-        scenes = sorted(glob.glob(os.path.join(args.scenes_dir, "scene_*.png")))
+        # 过滤掉 _text 版本（stage_kenburns 内部会优先选用 _text）
+        scenes = sorted([
+            f for f in glob.glob(os.path.join(args.scenes_dir, "scene_*.png"))
+            if '_text.png' not in f
+        ])
         if not scenes:
             print(f"❌ 未找到场景图片: {args.scenes_dir}/scene_*.png", file=sys.stderr)
             sys.exit(1)

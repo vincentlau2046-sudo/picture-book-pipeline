@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-stage_kenburns.py v2.0 — 静态画面 (取消 Ken Burns 缩放/移动)
+stage_kenburns.py v2.1 — 静态画面 (取消 Ken Burns 缩放/移动)
 
 将单张场景图直接作为视频片段，保持静态，不缩放不移动。
 每个场景输出一个 1920x1080, 25fps 的 mp4，时长=duration_s。
+
+v2.1 修复: 标题页/闭幕页优先使用 _text 版本（带文字叠加）。
 
 用法: python3 stage_kenburns.py 1920 1080
 
@@ -41,12 +43,20 @@ for p in prompts:
 print(f"[stage_kenburns] {len(scenes)} scenes, resolution={WIDTH}x{HEIGHT} (static, no zoom)")
 
 for sid, duration in scenes:
-    scene_png = f"scenes/scene_{sid}.png"
-    scene_mp4 = f"scenes/scene_{sid}.mp4"
+    # 优先使用 _text 版本（标题页/闭幕页带文字叠加）
+    text_png = f"scenes/scene_{sid}_text.png"
+    base_png = f"scenes/scene_{sid}.png"
 
-    if not os.path.isfile(scene_png):
-        print(f"  SKIP {sid}: {scene_png} not found")
+    if os.path.isfile(text_png):
+        scene_png = text_png
+        print(f"  [{sid}] using _text overlay: {text_png}")
+    elif os.path.isfile(base_png):
+        scene_png = base_png
+    else:
+        print(f"  SKIP {sid}: {base_png} not found")
         continue
+
+    scene_mp4 = f"scenes/scene_{sid}.mp4"
 
     print(f"  [{sid}] {duration:.1f}s static frame → {scene_mp4}")
     cmd = [
