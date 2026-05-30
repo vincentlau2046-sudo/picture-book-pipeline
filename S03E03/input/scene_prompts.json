@@ -1,0 +1,74 @@
+[
+  {
+    "scene": "S00",
+    "scene_id": "S00_title",
+    "duration_s": 10.9,
+    "type": "title"
+  },
+  {
+    "scene": "S01",
+    "prompt": "colored pencil children's book illustration, a cute girl with twin pigtails and yellow dress walking through a magical forest with tall trees and purple leaves, whimsical flowers that seem to sing, soft pastel colors, 1920x1080",
+    "duration_s": 15.0,
+    "scene_id": "S01"
+  },
+  {
+    "scene": "S02",
+    "prompt": "colored pencil children's book illustration, the same girl walking in circles among identical tall trees in a purple forest, looking frustrated and worried, sweat drops, dizzy swirl marks, 1920x1080",
+    "duration_s": 15.0,
+    "scene_id": "S02"
+  },
+  {
+    "scene": "S03",
+    "prompt": "colored pencil children's book illustration, dark tree canopy background with a big glowing mysterious smile floating in the center, no body visible, magical sparkles around the smile, the girl looking up in surprise and wonder, 1920x1080",
+    "duration_s": 17.8,
+    "scene_id": "S03"
+  },
+  {
+    "scene": "S04",
+    "prompt": "colored pencil children's book illustration, a whimsical purple cat with a big grin sitting on a tree branch, purple body with stripes, the girl watching in amazement, magical forest background, 1920x1080",
+    "duration_s": 15.0,
+    "scene_id": "S04"
+  },
+  {
+    "scene": "S05",
+    "prompt": "colored pencil children's book illustration, the purple Cheshire Cat talking to the girl on a tree branch, the cat has a playful mysterious expression, the girl looks frustrated and pointing at the confusing forest below, 1920x1080",
+    "duration_s": 15.0,
+    "scene_id": "S05"
+  },
+  {
+    "scene": "S06",
+    "prompt": "colored pencil children's book illustration, the Cheshire Cat's body fading away into transparency, only its big mysterious grin remaining floating on the tree branch, the girl reaching out confused, 1920x1080",
+    "duration_s": 12.0,
+    "scene_id": "S06"
+  },
+  {
+    "scene": "S07",
+    "prompt": "colored pencil children's book illustration, the girl reaching up towards a fading almost-invisible smile on a tree branch, the smile slipping through her fingers, she looks worried, 1920x1080",
+    "duration_s": 12.0,
+    "scene_id": "S07"
+  },
+  {
+    "scene": "S08",
+    "prompt": "colored pencil children's book illustration, the girl sitting under a tree taking a deep breath with eyes closed, peaceful expression, golden warm light filtering through purple leaves illuminating her, 1920x1080",
+    "duration_s": 15.0,
+    "scene_id": "S08"
+  },
+  {
+    "scene": "S09",
+    "prompt": "colored pencil children's book illustration, a wooden signpost behind a tree trunk with an arrow pointing right, it says 'Tea Party →' in whimsical handwriting, the girl pointing at it with a big happy excited smile, 1920x1080",
+    "duration_s": 15.0,
+    "scene_id": "S09"
+  },
+  {
+    "scene": "S10",
+    "prompt": "colored pencil children's book illustration, the girl happily walking down a forest path following a sign, in the distance faintly visible teacups and a tea party setup, confident and brave, warm golden light, 1920x1080",
+    "duration_s": 15.0,
+    "scene_id": "S10"
+  },
+  {
+    "scene": "S11",
+    "scene_id": "S11_endcard",
+    "duration_s": 35.7,
+    "type": "endcard"
+  }
+]

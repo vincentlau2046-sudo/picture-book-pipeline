@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-stage_xfade.py v2.0 — 静态画面串联
+stage_xfade.py v2.0 — 静态画面串联 (concat demuxer)
 
-将多个 mp4 片段用 xfade 淡入淡出串联成一个完整视频。
+将多个 mp4 片段用 ffmpeg concat demuxer 串联成一个完整视频。
 
 用法: python3 stage_xfade.py [xfade_duration]
 
-输入: scenes/scene_S*.mp4
+输入: scenes/scene_*.mp4 (scene_prompts.json 按顺序)
 输出: video_noaudio.mp4
 """
 
@@ -36,56 +36,32 @@ for s in prompts:
     if sid:
         c = f"scenes/scene_{sid}.mp4"
         if os.path.isfile(c):
-            clips.append(c)
+            clips.append((sid, c, s.get('duration_s', 10.0)))
 
-print(f"[stage_xfade] {len(clips)} clips, xfade={XF_DURATION}s")
+print(f"[stage_xfade] {len(clips)} clips, concat demuxer")
 
 if not clips:
     print("ERROR: no clips found")
     sys.exit(1)
 
 if len(clips) == 1:
-    subprocess.run(["cp", "-v", clips[0], "video_noaudio.mp4"], check=True)
+    subprocess.run(["cp", "-v", clips[0][1], "video_noaudio.mp4"], check=True)
     print("[stage_xfade] Single clip, copied.")
     sys.exit(0)
 
-# 获取每个clip时长 (用 ffmpeg 替代 ffprobe)
-def get_duration(path):
-    result = subprocess.run(
-        [FFMPEG, "-i", path],
-        capture_output=True, text=True
-    )
-    for line in result.stderr.split("\n"):
-        if "Duration" in line:
-            parts = line.split("Duration:")[1].split(",")[0].strip()
-            h, m, s = parts.split(":")
-            return float(h) * 3600 + float(m) * 60 + float(s)
-    return 10.0
+# 用 concat demuxer 串联 (简单可靠，适合静态画面)
+concat_file = "concat_list.txt"
+with open(concat_file, "w") as f:
+    for i, (sid, clip_path, dur) in enumerate(clips):
+        abs_path = os.path.abspath(clip_path)
+        f.write(f"file '{abs_path}'\n")
+        if i < len(clips) - 1:  # 最后一个clip不加outpoint
+            f.write(f"outpoint {dur}\n")
 
-# 构建 xfade filter
-inputs = []
-for c in clips:
-    inputs.extend(["-i", c])
+cmd = [FFMPEG, "-y", "-f", "concat", "-safe", "0", "-i", concat_file,
+       "-c", "copy", "-avoid_negative_ts", "make_zero",
+       "video_noaudio.mp4"]
 
-durations = [get_duration(c) for c in clips]
-n = len(clips)
-offset = 0
-filter_parts = []
-for i in range(n - 1):
-    filter_parts.append(f"[{i}][{i+1}]xfade=transition=fade:duration={XF_DURATION}:offset={offset}")
-    offset += durations[i] - XF_DURATION
-
-filter_parts.append(f"[{n-1}]format=yuv420p[outv]")
-full_filter = ";".join(filter_parts)
-
-cmd = [FFMPEG, "-y"] + inputs + [
-    "-filter_complex", full_filter,
-    "-map", "[outv]",
-    "-c:v", "libx264",
-    "-preset", "medium",
-    "-crf", "18",
-    "video_noaudio.mp4",
-]
-print(f"[stage_xfade] Building xfade with {n} clips...")
+print(f"[stage_xfade] Building concat with {len(clips)} clips...")
 subprocess.run(cmd, check=True)
 print("[stage_xfade] Done → video_noaudio.mp4")
