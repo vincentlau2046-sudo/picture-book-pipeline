@@ -1,0 +1,95 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.14,Default,,0,0,0,,Hi kids, I'm Qiqi!
+Dialogue: 0,0:00:02.43,0:00:05.78,Default,,0,0,0,,Welcome back to Qiqi Meets
+Dialogue: 0,0:00:05.78,0:00:08.09,Default,,0,0,0,,the Little Prince~
+Dialogue: 0,0:00:08.40,0:00:09.68,Default,,0,0,0,,Last time,
+Dialogue: 0,0:00:09.68,0:00:12.46,Default,,0,0,0,,the little prince saw
+Dialogue: 0,0:00:12.46,0:00:15.09,Default,,0,0,0,,five thousand roses.
+Dialogue: 0,0:00:15.40,0:00:17.11,Default,,0,0,0,,But he said,
+Dialogue: 0,0:00:17.11,0:00:20.26,Default,,0,0,0,,none of them were his.
+Dialogue: 0,0:00:20.55,0:00:23.84,Default,,0,0,0,,Because he had spent so much
+Dialogue: 0,0:00:23.84,0:00:26.53,Default,,0,0,0,,time with his own rose.
+Dialogue: 0,0:00:26.83,0:00:27.39,Default,,0,0,0,,Today,
+Dialogue: 0,0:00:27.39,0:00:29.02,Default,,0,0,0,,the little prince
+Dialogue: 0,0:00:29.02,0:00:30.17,Default,,0,0,0,,meets a fox—
+Dialogue: 0,0:00:30.48,0:00:32.69,Default,,0,0,0,,And the fox will teach him
+Dialogue: 0,0:00:32.69,0:00:34.37,Default,,0,0,0,,something even more
+Dialogue: 0,0:00:34.37,0:00:35.25,Default,,0,0,0,,wonderful!
+Dialogue: 0,0:00:35.56,0:00:37.26,Default,,0,0,0,,The little prince walked
+Dialogue: 0,0:00:37.26,0:00:38.82,Default,,0,0,0,,under the apple trees.
+Dialogue: 0,0:00:39.11,0:00:40.49,Default,,0,0,0,,A fox was sitting by
+Dialogue: 0,0:00:40.49,0:00:41.25,Default,,0,0,0,,the meadow.
+Dialogue: 0,0:00:41.55,0:00:42.25,Default,,0,0,0,,Hello there.
+Dialogue: 0,0:00:42.55,0:00:43.89,Default,,0,0,0,,Hello, who are you?
+Dialogue: 0,0:00:44.19,0:00:45.53,Default,,0,0,0,,I am a fox.
+Dialogue: 0,0:00:45.83,0:00:47.81,Default,,0,0,0,,Will you... tame me?
+Dialogue: 0,0:00:48.11,0:00:48.64,Default,,0,0,0,,Tame?
+Dialogue: 0,0:00:48.64,0:00:50.73,Default,,0,0,0,,What does that mean?
+Dialogue: 0,0:00:51.03,0:00:52.25,Default,,0,0,0,,To tame means to
+Dialogue: 0,0:00:52.25,0:00:53.09,Default,,0,0,0,,build ties.
+Dialogue: 0,0:00:53.39,0:00:54.03,Default,,0,0,0,,Right now,
+Dialogue: 0,0:00:54.03,0:00:54.89,Default,,0,0,0,,you're just a
+Dialogue: 0,0:00:54.89,0:00:56.01,Default,,0,0,0,,little boy to me.
+Dialogue: 0,0:00:56.31,0:00:57.30,Default,,0,0,0,,And I don't need
+Dialogue: 0,0:00:57.30,0:00:57.97,Default,,0,0,0,,you either.
+Dialogue: 0,0:00:58.27,0:00:59.93,Default,,0,0,0,,But if you tame me—
+Dialogue: 0,0:01:00.23,0:01:03.18,Default,,0,0,0,,Your footsteps will sound like music,
+Dialogue: 0,0:01:03.18,0:01:04.59,Default,,0,0,0,,calling me out of
+Dialogue: 0,0:01:04.59,0:01:05.41,Default,,0,0,0,,my burrow!
+Dialogue: 0,0:01:05.71,0:01:06.12,Default,,0,0,0,,Wow,
+Dialogue: 0,0:01:06.12,0:01:08.43,Default,,0,0,0,,footsteps turning into
+Dialogue: 0,0:01:08.43,0:01:10.73,Default,,0,0,0,,music? That's amazing!
+Dialogue: 0,0:01:11.03,0:01:12.61,Default,,0,0,0,,Then what should I do?
+Dialogue: 0,0:01:12.91,0:01:14.33,Default,,0,0,0,,You must be patient.
+Dialogue: 0,0:01:14.63,0:01:15.11,Default,,0,0,0,,First,
+Dialogue: 0,0:01:15.11,0:01:17.09,Default,,0,0,0,,sit a little far from me.
+Dialogue: 0,0:01:17.39,0:01:18.16,Default,,0,0,0,,Each day,
+Dialogue: 0,0:01:18.16,0:01:19.93,Default,,0,0,0,,come a little closer.
+Dialogue: 0,0:01:20.23,0:01:21.58,Default,,0,0,0,,The little prince
+Dialogue: 0,0:01:21.58,0:01:22.29,Default,,0,0,0,,sat down.
+Dialogue: 0,0:01:22.59,0:01:24.23,Default,,0,0,0,,On the first day,
+Dialogue: 0,0:01:24.23,0:01:25.77,Default,,0,0,0,,he sat far away.
+Dialogue: 0,0:01:26.07,0:01:27.68,Default,,0,0,0,,On the second day,
+Dialogue: 0,0:01:27.68,0:01:29.81,Default,,0,0,0,,he came one step closer.
+Dialogue: 0,0:01:30.11,0:01:31.60,Default,,0,0,0,,On the third day,
+Dialogue: 0,0:01:31.60,0:01:32.73,Default,,0,0,0,,closer still.
+Dialogue: 0,0:01:33.03,0:01:34.10,Default,,0,0,0,,I get it!
+Dialogue: 0,0:01:34.10,0:01:35.82,Default,,0,0,0,,Making friends
+Dialogue: 0,0:01:35.82,0:01:37.17,Default,,0,0,0,,takes time!
+Dialogue: 0,0:01:37.47,0:01:38.49,Default,,0,0,0,,Then one day—
+Dialogue: 0,0:01:38.79,0:01:39.12,Default,,0,0,0,,Look!
+Dialogue: 0,0:01:39.12,0:01:40.57,Default,,0,0,0,,The color of the wheat
+Dialogue: 0,0:01:40.57,0:01:42.21,Default,,0,0,0,,fields reminds me of you.
+Dialogue: 0,0:01:42.51,0:01:44.60,Default,,0,0,0,,Because your hair is golden,
+Dialogue: 0,0:01:44.60,0:01:46.09,Default,,0,0,0,,and so is the wheat.
+Dialogue: 0,0:01:46.39,0:01:48.38,Default,,0,0,0,,Every time I see the wheat,
+Dialogue: 0,0:01:48.38,0:01:49.75,Default,,0,0,0,,I'll think of you,
+Dialogue: 0,0:01:49.75,0:01:51.33,Default,,0,0,0,,and feel warm inside.
+Dialogue: 0,0:01:51.63,0:01:53.28,Default,,0,0,0,,The little prince touched
+Dialogue: 0,0:01:53.28,0:01:54.33,Default,,0,0,0,,his golden hair.
+Dialogue: 0,0:01:54.63,0:01:56.13,Default,,0,0,0,,So taming means—
+Dialogue: 0,0:01:56.43,0:01:57.38,Default,,0,0,0,,You have a special
+Dialogue: 0,0:01:57.38,0:01:58.33,Default,,0,0,0,,place in my heart.
+Dialogue: 0,0:01:58.63,0:01:59.12,Default,,0,0,0,,Kids,
+Dialogue: 0,0:01:59.12,0:02:01.24,Default,,0,0,0,,how did you meet your
+Dialogue: 0,0:02:01.24,0:02:02.45,Default,,0,0,0,,best friend?
+Dialogue: 0,0:02:02.75,0:02:04.92,Default,,0,0,0,,Did you get closer
+Dialogue: 0,0:02:04.92,0:02:07.45,Default,,0,0,0,,little by little too?
+Dialogue: 0,0:02:07.75,0:02:08.80,Default,,0,0,0,,Next time,
+Dialogue: 0,0:02:08.80,0:02:11.59,Default,,0,0,0,,Qiqi and the little prince
+Dialogue: 0,0:02:11.59,0:02:13.73,Default,,0,0,0,,will... say goodbye.
+Dialogue: 0,0:02:14.03,0:02:15.17,Default,,0,0,0,,Good night,
+Dialogue: 0,0:02:15.17,0:02:17.13,Default,,0,0,0,,see you tomorrow~ ⭐

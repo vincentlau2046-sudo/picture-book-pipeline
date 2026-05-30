@@ -1,0 +1,146 @@
+[
+  {
+    "scene_id": 1,
+    "image": "scene_01.png",
+    "narration": "嗨，小朋友们，我是琪琪。今天故事书翻到了一页……咦？这一页好奇怪呀！画着一只……穿马甲的兔子？",
+    "image_prompt": "colored pencil children's book illustration, a little girl with twin pigtails and yellow dress and red shoes sitting in a cozy story room, an open glowing storybook on her lap, warm yellow and soft green lighting, cozy interior with bookshelves and potted plants, colored pencil texture, soft dreamy atmosphere",
+    "animation": {
+      "motion_prompt": "girl sitting and tilting head curiously, book pages gently fluttering, soft warm light pulsing, cozy atmosphere with subtle breathing movement",
+      "frames": 32,
+      "ipadapter_weight": 0.6,
+      "motion_scale": 0.4
+    }
+  },
+  {
+    "scene_id": 2,
+    "image": "scene_02.png",
+    "narration": "故事书上画着一只白色的小兔子，穿着红色马甲，手里拿着一块金色怀表。",
+    "image_prompt": "colored pencil children's book illustration, close-up of an open storybook page, a detailed white rabbit wearing red vest and round glasses holding a golden pocket watch, magical purple sparkles, warm yellow light transitioning to magical purple",
+    "animation": {
+      "motion_prompt": "magical glow pulsing on the book page, rabbit illustration subtly moving as if alive, sparkles floating around, pocket watch chain swinging gently, color transition from warm to purple",
+      "frames": 24,
+      "ipadapter_weight": 0.6,
+      "motion_scale": 0.5
+    }
+  },
+  {
+    "scene_id": 3,
+    "image": "scene_03.png",
+    "narration": "突然，画动了起来！白兔子从书里跳了出来！来不及了来不及了！我要迟到了！",
+    "image_prompt": "colored pencil children's book illustration, a white rabbit jumping out of a glowing storybook, golden pocket watch flying through the air trailing light, magical purple and orange energy swirling around the rabbit, dynamic action scene",
+    "animation": {
+      "motion_prompt": "rabbit jumping out of the book with energetic motion, golden pocket watch flying and spinning through the air, magical sparks and energy swirling, girl's surprised reaction with mouth opening, dynamic explosive action",
+      "frames": 24,
+      "ipadapter_weight": 0.55,
+      "motion_scale": 1.2
+    }
+  },
+  {
+    "scene_id": 4,
+    "image": "scene_04.png",
+    "narration": "哇！兔子会说话！等等我！",
+    "image_prompt": "colored pencil children's book illustration, the little girl with twin pigtails and yellow dress standing up and running forward with excited expression, orange and purple color palette, motion blur effect",
+    "animation": {
+      "motion_prompt": "girl standing up and running forward with excitement, hair and dress flowing behind her, purple magical light glowing at edges, dynamic running motion, background becoming blurry with motion",
+      "frames": 16,
+      "ipadapter_weight": 0.55,
+      "motion_scale": 1.0
+    }
+  },
+  {
+    "scene_id": 5,
+    "image": "scene_05.png",
+    "narration": "琪琪跟着白兔子跑呀跑，穿过故事屋，跑过小花园。迟到了迟到了！红心皇后会生气的！",
+    "image_prompt": "colored pencil children's book illustration, the little girl chasing a white rabbit in red vest through a small garden, flower petals flying behind them, a small dark rabbit hole appearing in the ground ahead, orange and deep purple color scheme",
+    "animation": {
+      "motion_prompt": "girl and rabbit running through garden, flower petals swirling and flying behind them, rabbit ahead running fast, dark hole appearing in ground ahead, dynamic chase scene with fast movement",
+      "frames": 24,
+      "ipadapter_weight": 0.55,
+      "motion_scale": 1.0
+    }
+  },
+  {
+    "scene_id": 6,
+    "image": "scene_06.png",
+    "narration": "白兔子钻进了一个小洞。琪琪也跟着钻了进去。哇——！",
+    "image_prompt": "colored pencil children's book illustration, the little girl diving headfirst into a rabbit hole, transition from bright garden to dark tunnel, deep purple and golden starlight, dramatic light-to-dark transition",
+    "animation": {
+      "motion_prompt": "girl diving headfirst into the rabbit hole, dramatic transition from bright garden light to dark tunnel, eyes sparkling in darkness, swirling purple and golden light around the hole entrance, falling motion beginning",
+      "frames": 16,
+      "ipadapter_weight": 0.55,
+      "motion_scale": 1.0
+    }
+  },
+  {
+    "scene_id": 7,
+    "image": "scene_07.png",
+    "narration": "琪琪开始往下掉。往下掉，往下掉，像坐了一趟好长好长的滑梯！",
+    "image_prompt": "colored pencil children's book illustration, the little girl falling down a swirling tunnel, dress billowing like a parachute, tunnel walls spiraling with glowing flower patterns, deep blue and golden starlight colors",
+    "animation": {
+      "motion_prompt": "girl falling slowly downward through swirling tunnel, dress billowing upward like parachute, tunnel walls rotating with glowing flower patterns, hair floating upward, expression changing from scared to amazed, gentle falling motion",
+      "frames": 32,
+      "ipadapter_weight": 0.5,
+      "motion_scale": 0.8
+    }
+  },
+  {
+    "scene_id": 8,
+    "image": "scene_08.png",
+    "narration": "掉呀掉呀，周围飘着奇怪的东西——书、闹钟、茶杯、还有扑克牌！好神奇呀！这些都在飞！",
+    "image_prompt": "colored pencil children's book illustration, the little girl falling through a magical void surrounded by floating objects, an open book, a ticking alarm clock, a teacup and saucer, heart-shaped playing cards, each object glowing with soft light, deep blue background",
+    "animation": {
+      "motion_prompt": "girl falling gently while floating objects drift around her, book pages fluttering, alarm clock pendulum swinging, teacup slowly rotating, playing cards spinning and floating, each object glowing softly, girl reaching out with delight",
+      "frames": 32,
+      "ipadapter_weight": 0.5,
+      "motion_scale": 0.8
+    }
+  },
+  {
+    "scene_id": 9,
+    "image": "scene_09.png",
+    "narration": "琪琪伸手想抓一本飞过的书，可是够不着。掉了好久好久……终于，扑通！",
+    "image_prompt": "colored pencil children's book illustration, the little girl reaching for a flying book but missing, then landing softly on a bed of colorful flowers, transition from deep blue to warm golden landing light",
+    "animation": {
+      "motion_prompt": "girl reaching for flying book and missing, then gentle falling acceleration, soft landing on flower bed, dress spreading out like petals, transition from blue void to warm golden light, gentle deceleration at landing",
+      "frames": 32,
+      "ipadapter_weight": 0.5,
+      "motion_scale": 0.8
+    }
+  },
+  {
+    "scene_id": 10,
+    "image": "scene_10.png",
+    "narration": "琪琪轻轻落在了一片软软的花地上。哇，好漂亮！",
+    "image_prompt": "colored pencil children's book illustration, the little girl sitting in a field of colorful soft flowers, flowers in red purple and blue all around her, warm golden light from above, soft and dreamy atmosphere",
+    "animation": {
+      "motion_prompt": "girl sitting among soft flowers, gently looking around with amazement, flowers swaying softly in breeze, petals drifting gently, warm golden light filtering down, subtle breathing and head turning",
+      "frames": 24,
+      "ipadapter_weight": 0.6,
+      "motion_scale": 0.4
+    }
+  },
+  {
+    "scene_id": 11,
+    "image": "scene_11.png",
+    "narration": "到处都是花！红色的花、紫色的花、蓝色的花，开满了一条长长的走廊。可是白兔子呢？不见了。白兔子？白兔子你去哪了？",
+    "image_prompt": "colored pencil children's book illustration, a long flower corridor stretching into the distance, flowers of red purple and blue blooming on both sides, the little girl standing in the middle looking around lost, corridor fading into mist",
+    "animation": {
+      "motion_prompt": "girl standing and looking around lost in flower corridor, flowers gently swaying on both sides, petals drifting in the air, corridor stretching into misty distance, girl turning her head searching, subtle camera pan along the corridor",
+      "frames": 32,
+      "ipadapter_weight": 0.6,
+      "motion_scale": 0.5
+    }
+  },
+  {
+    "scene_id": 12,
+    "image": "scene_12.png",
+    "narration": "走廊尽头，有一扇小小的门。门后面，好像有什么在等着琪琪。",
+    "image_prompt": "colored pencil children's book illustration, a small golden door at the end of a flower corridor, the door glowing with warm yellow light seeping through the cracks, the little girl walking toward the door curiously, flower petals drifting in the air",
+    "animation": {
+      "motion_prompt": "girl walking slowly toward the small golden door, door gently glowing with warm light seeping through cracks, flower petals drifting in air, mysterious warm atmosphere, girl's careful curious approach, door light pulsing softly",
+      "frames": 24,
+      "ipadapter_weight": 0.6,
+      "motion_scale": 0.5
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,36,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,2,1,2,50,50,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:02.95,Default,,0,0,0,,嗨，小朋友们，我是琪琪。
+Dialogue: 0,0:00:02.89,0:00:05.72,Default,,0,0,0,,今天故事书翻到了一页星空
+Dialogue: 0,0:00:05.72,0:00:08.11,Default,,0,0,0,,哇，星星好多好多！
+Dialogue: 0,0:00:08.11,0:00:11.17,Default,,0,0,0,,琪琪遇见了一个来自星星的小男孩。
+Dialogue: 0,0:00:11.17,0:00:13.13,Default,,0,0,0,,他叫……小王子！
+Dialogue: 0,0:00:13.13,0:00:16.55,Default,,0,0,0,,小王子住在一个很小很小的星球上。
+Dialogue: 0,0:00:16.55,0:00:18.81,Default,,0,0,0,,星球上只有他一个人。
+Dialogue: 0,0:00:18.81,0:00:21.05,Default,,0,0,0,,还有……一朵玫瑰。
+Dialogue: 0,0:00:21.05,0:00:23.03,Default,,0,0,0,,这朵玫瑰好漂亮呀。
+Dialogue: 0,0:00:23.03,0:00:25.61,Default,,0,0,0,,红色的花瓣，软软的。
+Dialogue: 0,0:00:25.61,0:00:29.71,Default,,0,0,0,,小王子每天都给玫瑰浇水。'你要多喝点水哦。
+Dialogue: 0,0:00:29.71,0:00:38.68,Default,,0,0,0,,他还给玫瑰做了一个玻璃罩。'这样风就不会吹到你了。'可是，玫瑰有点爱撒娇。'我好冷呀，你把玻璃罩打开嘛。
+Dialogue: 0,0:00:38.68,0:00:44.12,Default,,0,0,0,,不行，外面风太大了！''哼，你根本不关心我！'小王子好难过。
+Dialogue: 0,0:00:44.12,0:00:46.27,Default,,0,0,0,,他不知道该怎么办了。
+Dialogue: 0,0:00:46.27,0:00:49.38,Default,,0,0,0,,小王子决定离开星球，出去看看。
+Dialogue: 0,0:00:49.38,0:00:51.75,Default,,0,0,0,,玫瑰看到小王子要走。
+Dialogue: 0,0:00:51.75,0:00:55.41,Default,,0,0,0,,她的花瓣低了下来。'你走吧……我不需要你。
+Dialogue: 0,0:00:55.41,0:00:59.14,Default,,0,0,0,,可是琪琪看到……玫瑰偷偷地掉了一滴眼泪。
+Dialogue: 0,0:00:59.14,0:01:02.16,Default,,0,0,0,,小王子也偷偷回头看了好几次。
+Dialogue: 0,0:01:02.16,0:01:10.72,Default,,0,0,0,,琪琪跑过去，轻轻碰了碰玫瑰。'你是不是舍不得他呀？'玫瑰摇摇头。'我才没有呢……'但是她的花瓣在发抖。
+Dialogue: 0,0:01:10.72,0:01:14.11,Default,,0,0,0,,琪琪想了想。'我妈妈有时候也会生气。
+Dialogue: 0,0:01:14.11,0:01:16.48,Default,,0,0,0,,可是她不是真的不喜欢我。
+Dialogue: 0,0:01:16.48,0:01:19.58,Default,,0,0,0,,她只是想让我多说一句'我爱你'。
+Dialogue: 0,0:01:19.58,0:01:22.27,Default,,0,0,0,,琪琪对小王子喊——'小王子！
+Dialogue: 0,0:01:22.27,0:01:25.95,Default,,0,0,0,,你还没跟玫瑰说再见呢！'小王子停下脚步。
+Dialogue: 0,0:01:25.95,0:01:31.67,Default,,0,0,0,,他转过身，轻轻地跟玫瑰说——'对不起，我应该多听听你说话的。
+Dialogue: 0,0:01:31.67,0:01:37.93,Default,,0,0,0,,玫瑰的花瓣终于不抖了。'你……你路上要小心。'小王子点点头。'我会回来的。
+Dialogue: 0,0:01:37.93,0:01:39.63,Default,,0,0,0,,我一定会回来的。
+Dialogue: 0,0:01:39.63,0:01:41.90,Default,,0,0,0,,琪琪看着小王子走远。
+Dialogue: 0,0:01:41.90,0:01:47.01,Default,,0,0,0,,她想——原来呀，最爱的人，有时候最难说出心里话。
+Dialogue: 0,0:01:47.01,0:01:50.15,Default,,0,0,0,,小朋友们，你最珍惜的人是谁呢？
+Dialogue: 0,0:01:50.15,0:01:53.09,Default,,0,0,0,,快去跟ta说一句'我爱你'吧

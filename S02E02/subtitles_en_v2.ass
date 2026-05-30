@@ -1,0 +1,139 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.45,Default,,0,0,0,,Hi kids, I'm Qiqi.
+Dialogue: 0,0:00:02.75,0:00:05.86,Default,,0,0,0,,Welcome back to Qiqi Meets
+Dialogue: 0,0:00:05.86,0:00:08.01,Default,,0,0,0,,the Little Prince~
+Dialogue: 0,0:00:08.32,0:00:09.92,Default,,0,0,0,,Last time,
+Dialogue: 0,0:00:09.92,0:00:14.68,Default,,0,0,0,,the little prince fought with
+Dialogue: 0,0:00:14.68,0:00:18.30,Default,,0,0,0,,his rose and ran away.
+Dialogue: 0,0:00:18.60,0:00:19.25,Default,,0,0,0,,Today,
+Dialogue: 0,0:00:19.25,0:00:22.14,Default,,0,0,0,,he starts traveling across
+Dialogue: 0,0:00:22.14,0:00:23.64,Default,,0,0,0,,planets — who
+Dialogue: 0,0:00:23.64,0:00:25.14,Default,,0,0,0,,will he meet?
+Dialogue: 0,0:00:25.44,0:00:29.47,Default,,0,0,0,,The little prince looked back one last time at his
+Dialogue: 0,0:00:29.47,0:00:30.95,Default,,0,0,0,,tiny planet. Then,
+Dialogue: 0,0:00:30.95,0:00:32.24,Default,,0,0,0,,he flew through
+Dialogue: 0,0:00:32.24,0:00:33.10,Default,,0,0,0,,the stars.
+Dialogue: 0,0:00:33.39,0:00:33.94,Default,,0,0,0,,First,
+Dialogue: 0,0:00:33.94,0:00:35.98,Default,,0,0,0,,he arrived at a planet
+Dialogue: 0,0:00:35.98,0:00:37.37,Default,,0,0,0,,full of houses.
+Dialogue: 0,0:00:37.67,0:00:39.65,Default,,0,0,0,,A man sat on a tall chair,
+Dialogue: 0,0:00:39.65,0:00:41.25,Default,,0,0,0,,wearing a golden hat.
+Dialogue: 0,0:00:41.55,0:00:42.82,Default,,0,0,0,,I am the King!
+Dialogue: 0,0:00:42.82,0:00:44.50,Default,,0,0,0,,Everyone must obey
+Dialogue: 0,0:00:44.50,0:00:45.61,Default,,0,0,0,,my commands!
+Dialogue: 0,0:00:45.91,0:00:47.41,Default,,0,0,0,,The little prince asked.
+Dialogue: 0,0:00:47.71,0:00:49.49,Default,,0,0,0,,Then can you command the sun to
+Dialogue: 0,0:00:49.49,0:00:49.72,Default,,0,0,0,,set?
+Dialogue: 0,0:00:49.72,0:00:50.97,Default,,0,0,0,,I want to see it now!
+Dialogue: 0,0:00:51.27,0:00:52.47,Default,,0,0,0,,Of course!
+Dialogue: 0,0:00:52.47,0:00:55.46,Default,,0,0,0,,But you'll have to wait..
+Dialogue: 0,0:00:55.46,0:00:58.21,Default,,0,0,0,,. hmm... about 7:40 PM.
+Dialogue: 0,0:00:58.51,0:00:59.98,Default,,0,0,0,,The little prince
+Dialogue: 0,0:00:59.98,0:01:01.61,Default,,0,0,0,,waited a long time.
+Dialogue: 0,0:01:01.91,0:01:03.15,Default,,0,0,0,,The king finally
+Dialogue: 0,0:01:03.15,0:01:05.09,Default,,0,0,0,,commanded the sun to set.
+Dialogue: 0,0:01:05.39,0:01:07.20,Default,,0,0,0,,The little prince politely
+Dialogue: 0,0:01:07.20,0:01:08.80,Default,,0,0,0,,bowed and said goodbye.
+Dialogue: 0,0:01:09.10,0:01:10.60,Default,,0,0,0,,Then he kept flying forw
+Dialogue: 0,0:01:10.60,0:01:10.84,Default,,0,0,0,,ard.
+Dialogue: 0,0:01:11.14,0:01:12.57,Default,,0,0,0,,The second stop was a
+Dialogue: 0,0:01:12.57,0:01:13.52,Default,,0,0,0,,bigger planet.
+Dialogue: 0,0:01:13.82,0:01:15.85,Default,,0,0,0,,That man wore a big hat
+Dialogue: 0,0:01:15.85,0:01:17.16,Default,,0,0,0,,and a big coat.
+Dialogue: 0,0:01:17.46,0:01:20.08,Default,,0,0,0,,Ah! My admirer has come!
+Dialogue: 0,0:01:20.38,0:01:21.65,Default,,0,0,0,,The little prince
+Dialogue: 0,0:01:21.65,0:01:22.84,Default,,0,0,0,,asked curiously.
+Dialogue: 0,0:01:23.14,0:01:24.56,Default,,0,0,0,,What does 'admire' mean?
+Dialogue: 0,0:01:24.86,0:01:26.86,Default,,0,0,0,,It means thinking I'm the handsomest
+Dialogue: 0,0:01:26.86,0:01:27.94,Default,,0,0,0,,and smartest person
+Dialogue: 0,0:01:27.94,0:01:28.68,Default,,0,0,0,,in the world!
+Dialogue: 0,0:01:28.98,0:01:30.48,Default,,0,0,0,,The vain man said.
+Dialogue: 0,0:01:30.78,0:01:31.96,Default,,0,0,0,,Clap your hands!
+Dialogue: 0,0:01:31.96,0:01:33.55,Default,,0,0,0,,When I hear clapping,
+Dialogue: 0,0:01:33.55,0:01:34.76,Default,,0,0,0,,I'll tip my hat!
+Dialogue: 0,0:01:35.06,0:01:37.17,Default,,0,0,0,,The little prince clapped.
+Dialogue: 0,0:01:37.17,0:01:39.11,Default,,0,0,0,,The vain man tipped his
+Dialogue: 0,0:01:39.11,0:01:39.44,Default,,0,0,0,,hat.
+Dialogue: 0,0:01:39.74,0:01:41.12,Default,,0,0,0,,A few minutes later,
+Dialogue: 0,0:01:41.12,0:01:42.33,Default,,0,0,0,,the little prince
+Dialogue: 0,0:01:42.33,0:01:43.32,Default,,0,0,0,,clapped again.
+Dialogue: 0,0:01:43.62,0:01:44.67,Default,,0,0,0,,The vain man tipped
+Dialogue: 0,0:01:44.67,0:01:45.44,Default,,0,0,0,,his hat again.
+Dialogue: 0,0:01:45.74,0:01:47.07,Default,,0,0,0,,But after a while,
+Dialogue: 0,0:01:47.07,0:01:48.36,Default,,0,0,0,,the little prince
+Dialogue: 0,0:01:48.36,0:01:49.64,Default,,0,0,0,,stopped clapping.
+Dialogue: 0,0:01:49.94,0:01:51.24,Default,,0,0,0,,The vain man felt
+Dialogue: 0,0:01:51.24,0:01:52.08,Default,,0,0,0,,very bored.
+Dialogue: 0,0:01:52.38,0:01:53.49,Default,,0,0,0,,The little prince
+Dialogue: 0,0:01:53.49,0:01:54.92,Default,,0,0,0,,continued his journey.
+Dialogue: 0,0:01:55.22,0:01:56.55,Default,,0,0,0,,On the third planet,
+Dialogue: 0,0:01:56.55,0:01:58.00,Default,,0,0,0,,there were many roses.
+Dialogue: 0,0:01:58.30,0:02:00.41,Default,,0,0,0,,The little prince saw so many
+Dialogue: 0,0:02:00.41,0:02:01.77,Default,,0,0,0,,roses and suddenly
+Dialogue: 0,0:02:01.77,0:02:02.44,Default,,0,0,0,,felt sad.
+Dialogue: 0,0:02:02.74,0:02:04.30,Default,,0,0,0,,I thought my rose was the only
+Dialogue: 0,0:02:04.30,0:02:05.44,Default,,0,0,0,,one in the universe...
+Dialogue: 0,0:02:05.74,0:02:07.46,Default,,0,0,0,,He sat on the ground
+Dialogue: 0,0:02:07.46,0:02:09.00,Default,,0,0,0,,and cried quietly.
+Dialogue: 0,0:02:09.30,0:02:09.72,Default,,0,0,0,,Then,
+Dialogue: 0,0:02:09.72,0:02:11.52,Default,,0,0,0,,a little fox appeared.
+Dialogue: 0,0:02:11.82,0:02:12.44,Default,,0,0,0,,Hello.
+Dialogue: 0,0:02:12.74,0:02:14.56,Default,,0,0,0,,Hello. Who are you?
+Dialogue: 0,0:02:14.86,0:02:16.28,Default,,0,0,0,,The fox said.
+Dialogue: 0,0:02:16.58,0:02:17.69,Default,,0,0,0,,I'm a fox.
+Dialogue: 0,0:02:17.69,0:02:19.84,Default,,0,0,0,,If you want to make
+Dialogue: 0,0:02:19.84,0:02:21.76,Default,,0,0,0,,friends, tame me.
+Dialogue: 0,0:02:22.06,0:02:23.88,Default,,0,0,0,,What does 'tame' mean?
+Dialogue: 0,0:02:24.18,0:02:25.60,Default,,0,0,0,,The little prince asked.
+Dialogue: 0,0:02:25.90,0:02:27.64,Default,,0,0,0,,It means creating ties.
+Dialogue: 0,0:02:27.94,0:02:29.04,Default,,0,0,0,,If you tame me,
+Dialogue: 0,0:02:29.04,0:02:30.64,Default,,0,0,0,,we'll need each other.
+Dialogue: 0,0:02:30.94,0:02:31.42,Default,,0,0,0,,To me,
+Dialogue: 0,0:02:31.42,0:02:33.22,Default,,0,0,0,,you'll be the only one
+Dialogue: 0,0:02:33.22,0:02:34.28,Default,,0,0,0,,in the world.
+Dialogue: 0,0:02:34.59,0:02:35.10,Default,,0,0,0,,To you,
+Dialogue: 0,0:02:35.10,0:02:36.86,Default,,0,0,0,,I'll be the only one in
+Dialogue: 0,0:02:36.86,0:02:37.93,Default,,0,0,0,,the world too.
+Dialogue: 0,0:02:38.22,0:02:39.21,Default,,0,0,0,,The little prince
+Dialogue: 0,0:02:39.21,0:02:40.21,Default,,0,0,0,,thought about it.
+Dialogue: 0,0:02:40.50,0:02:41.62,Default,,0,0,0,,He thought about
+Dialogue: 0,0:02:41.62,0:02:42.25,Default,,0,0,0,,his rose.
+Dialogue: 0,0:02:42.55,0:02:43.56,Default,,0,0,0,,Maybe my rose has
+Dialogue: 0,0:02:43.56,0:02:44.68,Default,,0,0,0,,already tamed me...
+Dialogue: 0,0:02:44.99,0:02:46.46,Default,,0,0,0,,The fox shared a secret
+Dialogue: 0,0:02:46.46,0:02:47.93,Default,,0,0,0,,with the little prince.
+Dialogue: 0,0:02:48.22,0:02:49.99,Default,,0,0,0,,You can only see clearly
+Dialogue: 0,0:02:49.99,0:02:51.16,Default,,0,0,0,,with your heart.
+Dialogue: 0,0:02:51.46,0:02:53.22,Default,,0,0,0,,What is truly essential is
+Dialogue: 0,0:02:53.22,0:02:54.65,Default,,0,0,0,,invisible to the eye.
+Dialogue: 0,0:02:54.94,0:02:56.23,Default,,0,0,0,,The little prince
+Dialogue: 0,0:02:56.23,0:02:57.96,Default,,0,0,0,,remembered those words.
+Dialogue: 0,0:02:58.27,0:03:00.27,Default,,0,0,0,,He said goodbye to the
+Dialogue: 0,0:03:00.27,0:03:02.09,Default,,0,0,0,,fox and kept flying.
+Dialogue: 0,0:03:02.38,0:03:04.29,Default,,0,0,0,,He knew his rose was waiting
+Dialogue: 0,0:03:04.29,0:03:05.72,Default,,0,0,0,,for him to come back.
+Dialogue: 0,0:03:06.03,0:03:06.46,Default,,0,0,0,,Kids,
+Dialogue: 0,0:03:06.46,0:03:07.64,Default,,0,0,0,,do you have a
+Dialogue: 0,0:03:07.64,0:03:09.00,Default,,0,0,0,,special friend?
+Dialogue: 0,0:03:09.31,0:03:12.16,Default,,0,0,0,,Someone who 'tamed' you.
+Dialogue: 0,0:03:12.46,0:03:14.82,Default,,0,0,0,,Go spend more time
+Dialogue: 0,0:03:14.82,0:03:16.12,Default,,0,0,0,,with them~
+Dialogue: 0,0:03:16.43,0:03:17.71,Default,,0,0,0,,Next time,
+Dialogue: 0,0:03:17.71,0:03:21.62,Default,,0,0,0,,Qiqi and the little prince are
+Dialogue: 0,0:03:21.62,0:03:23.64,Default,,0,0,0,,going to a very
+Dialogue: 0,0:03:23.64,0:03:25.53,Default,,0,0,0,,bright planet.
+Dialogue: 0,0:03:25.83,0:03:29.16,Default,,0,0,0,,Good night,
+Dialogue: 0,0:03:29.16,0:03:34.93,Default,,0,0,0,,see you tomorrow~ ⭐

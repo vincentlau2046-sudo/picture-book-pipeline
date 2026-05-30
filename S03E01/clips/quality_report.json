@@ -1,0 +1,68 @@
+{
+  "total_scenes": 12,
+  "succeeded": 12,
+  "failed": 0,
+  "elapsed_seconds": 325.8,
+  "clips": [
+    {
+      "scene": 1,
+      "status": "ok",
+      "frames": 32
+    },
+    {
+      "scene": 2,
+      "status": "ok",
+      "frames": 24
+    },
+    {
+      "scene": 3,
+      "status": "ok",
+      "frames": 24
+    },
+    {
+      "scene": 4,
+      "status": "ok",
+      "frames": 16
+    },
+    {
+      "scene": 5,
+      "status": "ok",
+      "frames": 24
+    },
+    {
+      "scene": 6,
+      "status": "ok",
+      "frames": 16
+    },
+    {
+      "scene": 7,
+      "status": "ok",
+      "frames": 32
+    },
+    {
+      "scene": 8,
+      "status": "ok",
+      "frames": 32
+    },
+    {
+      "scene": 9,
+      "status": "ok",
+      "frames": 32
+    },
+    {
+      "scene": 10,
+      "status": "ok",
+      "frames": 24
+    },
+    {
+      "scene": 11,
+      "status": "ok",
+      "frames": 32
+    },
+    {
+      "scene": 12,
+      "status": "ok",
+      "frames": 24
+    }
+  ]
+}

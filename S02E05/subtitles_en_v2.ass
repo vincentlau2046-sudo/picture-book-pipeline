@@ -1,0 +1,88 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.98,Default,,0,0,0,,Hi kids, I'm Qiqi.
+Dialogue: 0,0:00:06.28,0:00:09.81,Default,,0,0,0,,Welcome back to Qiqi Meets
+Dialogue: 0,0:00:09.81,0:00:12.25,Default,,0,0,0,,the Little Prince~
+Dialogue: 0,0:00:12.56,0:00:14.56,Default,,0,0,0,,Last time,
+Dialogue: 0,0:00:14.56,0:00:19.32,Default,,0,0,0,,Qiqi saw the drunkard's
+Dialogue: 0,0:00:19.32,0:00:20.78,Default,,0,0,0,,planet.
+Dialogue: 0,0:00:21.07,0:00:24.43,Default,,0,0,0,,Drinking won't solve problems —
+Dialogue: 0,0:00:24.43,0:00:26.82,Default,,0,0,0,,facing them is braver!
+Dialogue: 0,0:00:27.12,0:00:27.77,Default,,0,0,0,,Today,
+Dialogue: 0,0:00:27.77,0:00:31.23,Default,,0,0,0,,they come to a tiny planet with
+Dialogue: 0,0:00:31.23,0:00:33.19,Default,,0,0,0,,just one lamp and
+Dialogue: 0,0:00:33.19,0:00:34.46,Default,,0,0,0,,one person!
+Dialogue: 0,0:00:34.75,0:00:37.11,Default,,0,0,0,,The little prince and Qiqi kept
+Dialogue: 0,0:00:37.11,0:00:37.65,Default,,0,0,0,,flying,
+Dialogue: 0,0:00:37.65,0:00:39.53,Default,,0,0,0,,still on their way home.
+Dialogue: 0,0:00:39.83,0:00:41.58,Default,,0,0,0,,This time they came to a
+Dialogue: 0,0:00:41.58,0:00:43.25,Default,,0,0,0,,very very small planet.
+Dialogue: 0,0:00:43.55,0:00:45.79,Default,,0,0,0,,So small there was only one
+Dialogue: 0,0:00:45.79,0:00:47.85,Default,,0,0,0,,lamp post and one person.
+Dialogue: 0,0:00:48.15,0:00:50.56,Default,,0,0,0,,Qiqi and the little prince gently
+Dialogue: 0,0:00:50.56,0:00:51.54,Default,,0,0,0,,landed on the
+Dialogue: 0,0:00:51.54,0:00:52.45,Default,,0,0,0,,tiny planet.
+Dialogue: 0,0:00:52.75,0:00:54.37,Default,,0,0,0,,That person held a
+Dialogue: 0,0:00:54.37,0:00:56.17,Default,,0,0,0,,match in their hand.
+Dialogue: 0,0:00:56.47,0:00:58.77,Default,,0,0,0,,Snap! The lamp lit up.
+Dialogue: 0,0:00:59.07,0:01:01.45,Default,,0,0,0,,Snap! The lamp went out.
+Dialogue: 0,0:01:01.75,0:01:03.30,Default,,0,0,0,,Then it lit up again.
+Dialogue: 0,0:01:03.30,0:01:04.69,Default,,0,0,0,,And went out again.
+Dialogue: 0,0:01:04.99,0:01:07.29,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:01:07.59,0:01:10.53,Default,,0,0,0,,Qiqi asked curiously.
+Dialogue: 0,0:01:10.83,0:01:12.25,Default,,0,0,0,,I'm lighting the lamp.
+Dialogue: 0,0:01:12.55,0:01:15.25,Default,,0,0,0,,Why do you keep doing it?
+Dialogue: 0,0:01:15.55,0:01:16.56,Default,,0,0,0,,It's his job,
+Dialogue: 0,0:01:16.56,0:01:18.30,Default,,0,0,0,,like how daddy goes to
+Dialogue: 0,0:01:18.30,0:01:19.49,Default,,0,0,0,,work every day.
+Dialogue: 0,0:01:19.79,0:01:22.24,Default,,0,0,0,,But this planet was so small,
+Dialogue: 0,0:01:22.24,0:01:24.01,Default,,0,0,0,,it spun so very fast.
+Dialogue: 0,0:01:24.31,0:01:26.36,Default,,0,0,0,,Sigh... I just lit it,
+Dialogue: 0,0:01:26.36,0:01:28.00,Default,,0,0,0,,now I have to put
+Dialogue: 0,0:01:28.00,0:01:29.25,Default,,0,0,0,,it out again.
+Dialogue: 0,0:01:29.55,0:01:31.53,Default,,0,0,0,,The person wiped sweat.
+Dialogue: 0,0:01:31.83,0:01:34.00,Default,,0,0,0,,Then why don't you
+Dialogue: 0,0:01:34.00,0:01:36.05,Default,,0,0,0,,rest for a while?
+Dialogue: 0,0:01:36.35,0:01:39.29,Default,,0,0,0,,I can't. A job is a job.
+Dialogue: 0,0:01:39.59,0:01:41.63,Default,,0,0,0,,But you've been doing
+Dialogue: 0,0:01:41.63,0:01:43.17,Default,,0,0,0,,the right thing!
+Dialogue: 0,0:01:43.47,0:01:44.85,Default,,0,0,0,,Without you,
+Dialogue: 0,0:01:44.85,0:01:47.21,Default,,0,0,0,,this planet wouldn't
+Dialogue: 0,0:01:47.21,0:01:48.97,Default,,0,0,0,,have any light.
+Dialogue: 0,0:01:49.27,0:01:50.81,Default,,0,0,0,,The person stopped and
+Dialogue: 0,0:01:50.81,0:01:52.13,Default,,0,0,0,,looked at the lamp.
+Dialogue: 0,0:01:52.43,0:01:54.34,Default,,0,0,0,,The lamp went out,
+Dialogue: 0,0:01:54.34,0:01:56.25,Default,,0,0,0,,they lit it again.
+Dialogue: 0,0:01:56.55,0:01:58.99,Default,,0,0,0,,Persisting in doing the right thing,
+Dialogue: 0,0:01:58.99,0:02:00.52,Default,,0,0,0,,even when it's tiring,
+Dialogue: 0,0:02:00.52,0:02:01.97,Default,,0,0,0,,is really remarkable.
+Dialogue: 0,0:02:02.27,0:02:04.94,Default,,0,0,0,,I'll do one helpful thing
+Dialogue: 0,0:02:04.94,0:02:07.29,Default,,0,0,0,,every day from now on!
+Dialogue: 0,0:02:07.59,0:02:11.46,Default,,0,0,0,,The person kept lighting the lamp.
+Dialogue: 0,0:02:11.46,0:02:14.29,Default,,0,0,0,,Snap! Bright. Snap! Dark.
+Dialogue: 0,0:02:14.59,0:02:16.60,Default,,0,0,0,,But this tiny planet became so
+Dialogue: 0,0:02:16.60,0:02:17.64,Default,,0,0,0,,warm because of
+Dialogue: 0,0:02:17.64,0:02:18.33,Default,,0,0,0,,that lamp.
+Dialogue: 0,0:02:18.63,0:02:19.21,Default,,0,0,0,,Kids,
+Dialogue: 0,0:02:19.21,0:02:21.80,Default,,0,0,0,,what helpful thing did
+Dialogue: 0,0:02:21.80,0:02:23.33,Default,,0,0,0,,you do today?
+Dialogue: 0,0:02:23.63,0:02:26.64,Default,,0,0,0,,Tell Qiqi in the
+Dialogue: 0,0:02:26.64,0:02:28.33,Default,,0,0,0,,comments~
+Dialogue: 0,0:02:28.63,0:02:30.14,Default,,0,0,0,,Next time,
+Dialogue: 0,0:02:30.14,0:02:34.72,Default,,0,0,0,,Qiqi and the little prince are
+Dialogue: 0,0:02:34.72,0:02:37.11,Default,,0,0,0,,going to meet a
+Dialogue: 0,0:02:37.11,0:02:38.85,Default,,0,0,0,,geographer!
+Dialogue: 0,0:02:39.15,0:02:42.90,Default,,0,0,0,,Good night,
+Dialogue: 0,0:02:42.90,0:02:49.37,Default,,0,0,0,,see you tomorrow~ ⭐

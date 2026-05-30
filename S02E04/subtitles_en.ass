@@ -1,0 +1,76 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:02.56,Default,,0,0,0,,The Little Prince and Qiqi kept
+Dialogue: 0,0:00:02.56,0:00:03.13,Default,,0,0,0,,flying,
+Dialogue: 0,0:00:03.13,0:00:05.10,Default,,0,0,0,,still on their way home.
+Dialogue: 0,0:00:05.05,0:00:07.05,Default,,0,0,0,,This time they came to
+Dialogue: 0,0:00:07.05,0:00:08.32,Default,,0,0,0,,a gray planet.
+Dialogue: 0,0:00:08.32,0:00:10.34,Default,,0,0,0,,A man sat on the ground,
+Dialogue: 0,0:00:10.34,0:00:12.07,Default,,0,0,0,,with many many empty
+Dialogue: 0,0:00:12.07,0:00:13.72,Default,,0,0,0,,bottles beside him.
+Dialogue: 0,0:00:13.72,0:00:15.12,Default,,0,0,0,,He was drinking
+Dialogue: 0,0:00:15.12,0:00:16.52,Default,,0,0,0,,from a new one.
+Dialogue: 0,0:00:16.52,0:00:18.21,Default,,0,0,0,,Hello!
+Dialogue: 0,0:00:18.21,0:00:20.44,Default,,0,0,0,,What are you drinking?
+Dialogue: 0,0:00:20.44,0:00:23.30,Default,,0,0,0,,Qiqi asked curiously.
+Dialogue: 0,0:00:23.30,0:00:25.55,Default,,0,0,0,,I'm drinking wine.
+Dialogue: 0,0:00:25.55,0:00:27.20,Default,,0,0,0,,The man said with
+Dialogue: 0,0:00:27.20,0:00:28.55,Default,,0,0,0,,his head down.
+Dialogue: 0,0:00:28.55,0:00:30.96,Default,,0,0,0,,Why do you drink wine?
+Dialogue: 0,0:00:30.96,0:00:32.86,Default,,0,0,0,,To forget something I'm
+Dialogue: 0,0:00:32.86,0:00:34.35,Default,,0,0,0,,embarrassed about.
+Dialogue: 0,0:00:34.35,0:00:35.69,Default,,0,0,0,,What makes you
+Dialogue: 0,0:00:35.69,0:00:36.83,Default,,0,0,0,,embarrassed?
+Dialogue: 0,0:00:36.83,0:00:38.48,Default,,0,0,0,,Drinking makes me
+Dialogue: 0,0:00:38.48,0:00:39.64,Default,,0,0,0,,embarrassed.
+Dialogue: 0,0:00:39.64,0:00:41.76,Default,,0,0,0,,The man whispered.
+Dialogue: 0,0:00:41.76,0:00:43.66,Default,,0,0,0,,Qiqi tilted her head
+Dialogue: 0,0:00:43.66,0:00:44.80,Default,,0,0,0,,and thought.
+Dialogue: 0,0:00:44.80,0:00:45.43,Default,,0,0,0,,Wait...
+Dialogue: 0,0:00:45.43,0:00:47.17,Default,,0,0,0,,you drink to forget
+Dialogue: 0,0:00:47.17,0:00:48.54,Default,,0,0,0,,that you drink?
+Dialogue: 0,0:00:48.54,0:00:49.84,Default,,0,0,0,,But you're still
+Dialogue: 0,0:00:49.84,0:00:51.39,Default,,0,0,0,,drinking right now!
+Dialogue: 0,0:00:51.39,0:00:53.47,Default,,0,0,0,,The man took another sip
+Dialogue: 0,0:00:53.47,0:00:54.95,Default,,0,0,0,,and said nothing.
+Dialogue: 0,0:00:54.95,0:00:58.29,Default,,0,0,0,,Qiqi whispered to the Little Prince — He seems
+Dialogue: 0,0:00:58.29,0:00:59.93,Default,,0,0,0,,to be going in circles
+Dialogue: 0,0:00:59.93,0:01:01.27,Default,,0,0,0,,and can't get out.
+Dialogue: 0,0:01:01.27,0:01:03.70,Default,,0,0,0,,The Little Prince nodded.
+Dialogue: 0,0:01:03.70,0:01:05.50,Default,,0,0,0,,When you don't look at a
+Dialogue: 0,0:01:05.50,0:01:06.12,Default,,0,0,0,,problem,
+Dialogue: 0,0:01:06.12,0:01:07.67,Default,,0,0,0,,it only gets bigger.
+Dialogue: 0,0:01:07.67,0:01:10.21,Default,,0,0,0,,Qiqi looked at the empty bottles
+Dialogue: 0,0:01:10.21,0:01:12.19,Default,,0,0,0,,— more and more and more.
+Dialogue: 0,0:01:12.19,0:01:14.64,Default,,0,0,0,,If he stopped and looked at what he's
+Dialogue: 0,0:01:14.64,0:01:15.32,Default,,0,0,0,,afraid of,
+Dialogue: 0,0:01:15.32,0:01:16.52,Default,,0,0,0,,would he not need
+Dialogue: 0,0:01:16.52,0:01:17.16,Default,,0,0,0,,to drink?
+Dialogue: 0,0:01:17.16,0:01:19.93,Default,,0,0,0,,The Little Prince said softly — Yes,
+Dialogue: 0,0:01:19.93,0:01:21.99,Default,,0,0,0,,facing a problem is braver
+Dialogue: 0,0:01:21.99,0:01:23.41,Default,,0,0,0,,than running away.
+Dialogue: 0,0:01:23.41,0:01:25.21,Default,,0,0,0,,Qiqi held the Little
+Dialogue: 0,0:01:25.21,0:01:26.48,Default,,0,0,0,,Prince's hand.
+Dialogue: 0,0:01:26.48,0:01:28.37,Default,,0,0,0,,Next time I'm scared,
+Dialogue: 0,0:01:28.37,0:01:30.35,Default,,0,0,0,,I'll look at it first!
+Dialogue: 0,0:01:30.35,0:01:32.88,Default,,0,0,0,,They gently flew away.
+Dialogue: 0,0:01:32.88,0:01:34.79,Default,,0,0,0,,The man's bottles kept
+Dialogue: 0,0:01:34.79,0:01:36.52,Default,,0,0,0,,growing and growing.
+Dialogue: 0,0:01:36.52,0:01:36.93,Default,,0,0,0,,Kids,
+Dialogue: 0,0:01:36.93,0:01:38.43,Default,,0,0,0,,have you ever been
+Dialogue: 0,0:01:38.43,0:01:40.10,Default,,0,0,0,,scared of something?
+Dialogue: 0,0:01:40.10,0:01:42.65,Default,,0,0,0,,Try looking at it first — maybe
+Dialogue: 0,0:01:42.65,0:01:44.09,Default,,0,0,0,,it's not as scary
+Dialogue: 0,0:01:44.09,0:01:45.11,Default,,0,0,0,,as you think

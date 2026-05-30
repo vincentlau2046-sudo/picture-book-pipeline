@@ -1,0 +1,106 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.10,Default,,0,0,0,,Hi kids, I'm Qiqi.
+Dialogue: 0,0:00:03.39,0:00:05.23,Default,,0,0,0,,Welcome back to Qiqi Meets
+Dialogue: 0,0:00:05.23,0:00:06.50,Default,,0,0,0,,the Little Prince~
+Dialogue: 0,0:00:06.79,0:00:08.15,Default,,0,0,0,,Last time,
+Dialogue: 0,0:00:08.15,0:00:11.77,Default,,0,0,0,,Qiqi and the little prince
+Dialogue: 0,0:00:11.77,0:00:14.14,Default,,0,0,0,,visited the king.
+Dialogue: 0,0:00:14.43,0:00:18.48,Default,,0,0,0,,The king controlled everything,
+Dialogue: 0,0:00:18.48,0:00:21.31,Default,,0,0,0,,but he was all alone.
+Dialogue: 0,0:00:21.31,0:00:22.66,Default,,0,0,0,,So lonely.
+Dialogue: 0,0:00:22.96,0:00:23.67,Default,,0,0,0,,Today,
+Dialogue: 0,0:00:23.67,0:00:26.85,Default,,0,0,0,,they're passing by another
+Dialogue: 0,0:00:26.85,0:00:29.17,Default,,0,0,0,,very bright planet!
+Dialogue: 0,0:00:29.48,0:00:32.39,Default,,0,0,0,,The little prince and Qiqi flew and
+Dialogue: 0,0:00:32.39,0:00:32.82,Default,,0,0,0,,flew,
+Dialogue: 0,0:00:32.82,0:00:34.89,Default,,0,0,0,,still on their way home.
+Dialogue: 0,0:00:35.20,0:00:36.67,Default,,0,0,0,,They passed by a very
+Dialogue: 0,0:00:36.67,0:00:37.65,Default,,0,0,0,,bright planet.
+Dialogue: 0,0:00:37.96,0:00:39.46,Default,,0,0,0,,There were so many
+Dialogue: 0,0:00:39.46,0:00:41.14,Default,,0,0,0,,sparkles everywhere.
+Dialogue: 0,0:00:41.43,0:00:42.21,Default,,0,0,0,,Wow,
+Dialogue: 0,0:00:42.21,0:00:46.85,Default,,0,0,0,,did the stars fall down?
+Dialogue: 0,0:00:47.15,0:00:48.58,Default,,0,0,0,,Qiqi opened her
+Dialogue: 0,0:00:48.58,0:00:49.53,Default,,0,0,0,,eyes wide.
+Dialogue: 0,0:00:49.83,0:00:51.65,Default,,0,0,0,,It wasn't stars at all.
+Dialogue: 0,0:00:51.95,0:00:53.46,Default,,0,0,0,,It was a man wearing
+Dialogue: 0,0:00:53.46,0:00:54.89,Default,,0,0,0,,very shiny clothes.
+Dialogue: 0,0:00:55.19,0:00:56.38,Default,,0,0,0,,With a super big hat
+Dialogue: 0,0:00:56.38,0:00:57.09,Default,,0,0,0,,on his head.
+Dialogue: 0,0:00:57.39,0:00:59.02,Default,,0,0,0,,The hat was so bright
+Dialogue: 0,0:00:59.02,0:01:00.25,Default,,0,0,0,,it was dazzling.
+Dialogue: 0,0:01:00.55,0:01:01.03,Default,,0,0,0,,Hello!
+Dialogue: 0,0:01:01.03,0:01:02.53,Default,,0,0,0,,Do I look handsome?
+Dialogue: 0,0:01:02.83,0:01:04.57,Default,,0,0,0,,The man kept asking.
+Dialogue: 0,0:01:04.87,0:01:05.73,Default,,0,0,0,,Yes, you do.
+Dialogue: 0,0:01:06.03,0:01:07.38,Default,,0,0,0,,The little prince
+Dialogue: 0,0:01:07.38,0:01:08.81,Default,,0,0,0,,answered politely.
+Dialogue: 0,0:01:09.11,0:01:11.86,Default,,0,0,0,,Then clap for me! More,
+Dialogue: 0,0:01:11.86,0:01:12.45,Default,,0,0,0,,more!
+Dialogue: 0,0:01:12.75,0:01:13.94,Default,,0,0,0,,The man shouted
+Dialogue: 0,0:01:13.94,0:01:14.73,Default,,0,0,0,,excitedly.
+Dialogue: 0,0:01:15.03,0:01:16.53,Default,,0,0,0,,Qiqi curiously tried
+Dialogue: 0,0:01:16.53,0:01:17.73,Default,,0,0,0,,on that big hat.
+Dialogue: 0,0:01:18.03,0:01:19.63,Default,,0,0,0,,When she put it on,
+Dialogue: 0,0:01:19.63,0:01:21.44,Default,,0,0,0,,a big mirror appeared
+Dialogue: 0,0:01:21.44,0:01:22.81,Default,,0,0,0,,in front of her.
+Dialogue: 0,0:01:23.11,0:01:23.56,Default,,0,0,0,,But...
+Dialogue: 0,0:01:23.56,0:01:24.73,Default,,0,0,0,,the mirror only
+Dialogue: 0,0:01:24.73,0:01:25.89,Default,,0,0,0,,showed herself.
+Dialogue: 0,0:01:26.19,0:01:27.63,Default,,0,0,0,,When Qiqi clapped,
+Dialogue: 0,0:01:27.63,0:01:29.47,Default,,0,0,0,,only she could hear it.
+Dialogue: 0,0:01:29.77,0:01:32.05,Default,,0,0,0,,When Qiqi said 'how beautiful,
+Dialogue: 0,0:01:32.05,0:01:33.87,Default,,0,0,0,,' only she answered hers
+Dialogue: 0,0:01:33.87,0:01:34.17,Default,,0,0,0,,elf.
+Dialogue: 0,0:01:34.47,0:01:36.06,Default,,0,0,0,,Qiqi pouted and took
+Dialogue: 0,0:01:36.06,0:01:37.01,Default,,0,0,0,,the hat off.
+Dialogue: 0,0:01:37.31,0:01:39.23,Default,,0,0,0,,Praising yourself
+Dialogue: 0,0:01:39.23,0:01:41.37,Default,,0,0,0,,alone is so boring.
+Dialogue: 0,0:01:41.67,0:01:42.79,Default,,0,0,0,,I have a rose.
+Dialogue: 0,0:01:42.79,0:01:44.66,Default,,0,0,0,,I praise her every day,
+Dialogue: 0,0:01:44.66,0:01:46.53,Default,,0,0,0,,and she praises me too.
+Dialogue: 0,0:01:46.83,0:01:48.04,Default,,0,0,0,,When you praise others,
+Dialogue: 0,0:01:48.04,0:01:49.29,Default,,0,0,0,,they'll praise you back.
+Dialogue: 0,0:01:49.59,0:01:51.21,Default,,0,0,0,,The man kept looking in
+Dialogue: 0,0:01:51.21,0:01:52.69,Default,,0,0,0,,the mirror endlessly.
+Dialogue: 0,0:01:52.99,0:01:55.05,Default,,0,0,0,,Praise me! Praise me!
+Dialogue: 0,0:01:55.35,0:01:56.90,Default,,0,0,0,,He shouted loudly.
+Dialogue: 0,0:01:56.90,0:01:58.67,Default,,0,0,0,,But nobody passed by
+Dialogue: 0,0:01:58.67,0:01:59.73,Default,,0,0,0,,this planet.
+Dialogue: 0,0:02:00.03,0:02:02.68,Default,,0,0,0,,Only looking at yourself.
+Dialogue: 0,0:02:02.68,0:02:02.90,Default,,0,0,0,,..
+Dialogue: 0,0:02:02.90,0:02:05.53,Default,,0,0,0,,wouldn't that be lonely?
+Dialogue: 0,0:02:05.83,0:02:08.51,Default,,0,0,0,,Qiqi whispered to the little prince.
+Dialogue: 0,0:02:08.51,0:02:10.37,Default,,0,0,0,,The little prince nodded.
+Dialogue: 0,0:02:10.67,0:02:12.52,Default,,0,0,0,,They held hands and
+Dialogue: 0,0:02:12.52,0:02:14.17,Default,,0,0,0,,gently flew away.
+Dialogue: 0,0:02:14.47,0:02:17.02,Default,,0,0,0,,The man was still shouting —
+Dialogue: 0,0:02:17.02,0:02:18.93,Default,,0,0,0,,'Do I look handsome?'
+Dialogue: 0,0:02:19.23,0:02:20.85,Default,,0,0,0,,But nobody could hear
+Dialogue: 0,0:02:20.85,0:02:21.77,Default,,0,0,0,,him anymore.
+Dialogue: 0,0:02:22.07,0:02:22.64,Default,,0,0,0,,Kids,
+Dialogue: 0,0:02:22.64,0:02:24.74,Default,,0,0,0,,who do you like to
+Dialogue: 0,0:02:24.74,0:02:26.61,Default,,0,0,0,,praise the most?
+Dialogue: 0,0:02:26.91,0:02:28.58,Default,,0,0,0,,Go praise your
+Dialogue: 0,0:02:28.58,0:02:30.01,Default,,0,0,0,,best friend~
+Dialogue: 0,0:02:30.31,0:02:31.80,Default,,0,0,0,,Next time,
+Dialogue: 0,0:02:31.80,0:02:36.35,Default,,0,0,0,,Qiqi and the little prince are
+Dialogue: 0,0:02:36.35,0:02:39.99,Default,,0,0,0,,going to a strange plane
+Dialogue: 0,0:02:39.99,0:02:40.29,Default,,0,0,0,,t.
+Dialogue: 0,0:02:40.59,0:02:46.07,Default,,0,0,0,,The people there keep
+Dialogue: 0,0:02:46.07,0:02:52.34,Default,,0,0,0,,drinking something. Why?
+Dialogue: 0,0:02:52.63,0:02:56.94,Default,,0,0,0,,Good night,
+Dialogue: 0,0:02:56.94,0:03:04.37,Default,,0,0,0,,see you tomorrow~ ⭐

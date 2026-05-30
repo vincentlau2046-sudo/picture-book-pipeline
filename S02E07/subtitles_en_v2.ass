@@ -1,0 +1,91 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.45,Default,,0,0,0,,Hi kids, I'm Qiqi.
+Dialogue: 0,0:00:02.75,0:00:05.86,Default,,0,0,0,,Welcome back to Qiqi Meets
+Dialogue: 0,0:00:05.86,0:00:08.01,Default,,0,0,0,,the Little Prince~
+Dialogue: 0,0:00:08.32,0:00:10.07,Default,,0,0,0,,Last time,
+Dialogue: 0,0:00:10.07,0:00:14.90,Default,,0,0,0,,Qiqi met the geographer who
+Dialogue: 0,0:00:14.90,0:00:18.30,Default,,0,0,0,,never goes outside.
+Dialogue: 0,0:00:18.60,0:00:21.35,Default,,0,0,0,,Books hold knowledge,
+Dialogue: 0,0:00:21.35,0:00:24.31,Default,,0,0,0,,but you have to go out
+Dialogue: 0,0:00:24.31,0:00:26.73,Default,,0,0,0,,to smell the wind!
+Dialogue: 0,0:00:27.03,0:00:27.78,Default,,0,0,0,,Today,
+Dialogue: 0,0:00:27.78,0:00:31.94,Default,,0,0,0,,the little prince finally reaches
+Dialogue: 0,0:00:31.94,0:00:35.10,Default,,0,0,0,,Earth — what will he see?
+Dialogue: 0,0:00:35.39,0:00:36.74,Default,,0,0,0,,The little prince
+Dialogue: 0,0:00:36.74,0:00:38.01,Default,,0,0,0,,landed on Earth.
+Dialogue: 0,0:00:38.31,0:00:40.53,Default,,0,0,0,,He came to a big garden.
+Dialogue: 0,0:00:40.83,0:00:42.41,Default,,0,0,0,,And in that garden,
+Dialogue: 0,0:00:42.41,0:00:44.49,Default,,0,0,0,,roses bloomed everywhere.
+Dialogue: 0,0:00:44.79,0:00:45.81,Default,,0,0,0,,One thousand,
+Dialogue: 0,0:00:45.81,0:00:47.01,Default,,0,0,0,,two thousand...
+Dialogue: 0,0:00:47.01,0:00:48.61,Default,,0,0,0,,five thousand roses!
+Dialogue: 0,0:00:48.91,0:00:50.38,Default,,0,0,0,,I thought my rose was the
+Dialogue: 0,0:00:50.38,0:00:51.85,Default,,0,0,0,,only one in the universe.
+Dialogue: 0,0:00:52.15,0:00:53.80,Default,,0,0,0,,But she has five thousand
+Dialogue: 0,0:00:53.80,0:00:55.25,Default,,0,0,0,,sisters, all the same.
+Dialogue: 0,0:00:55.55,0:00:57.50,Default,,0,0,0,,The little prince sat on the
+Dialogue: 0,0:00:57.50,0:00:58.81,Default,,0,0,0,,grass, feeling sad.
+Dialogue: 0,0:00:59.11,0:01:00.82,Default,,0,0,0,,His rose had told him she
+Dialogue: 0,0:01:00.82,0:01:02.05,Default,,0,0,0,,was one of a kind.
+Dialogue: 0,0:01:02.35,0:01:03.16,Default,,0,0,0,,But here,
+Dialogue: 0,0:01:03.16,0:01:04.92,Default,,0,0,0,,every rose said the
+Dialogue: 0,0:01:04.92,0:01:05.93,Default,,0,0,0,,same thing.
+Dialogue: 0,0:01:06.23,0:01:07.41,Default,,0,0,0,,My rose is just an
+Dialogue: 0,0:01:07.41,0:01:08.45,Default,,0,0,0,,ordinary flower.
+Dialogue: 0,0:01:08.75,0:01:09.09,Default,,0,0,0,,Oh,
+Dialogue: 0,0:01:09.09,0:01:11.04,Default,,0,0,0,,the little prince
+Dialogue: 0,0:01:11.04,0:01:12.41,Default,,0,0,0,,is so sad...
+Dialogue: 0,0:01:12.71,0:01:13.67,Default,,0,0,0,,Just then,
+Dialogue: 0,0:01:13.67,0:01:15.09,Default,,0,0,0,,a fox appeared.
+Dialogue: 0,0:01:15.39,0:01:15.77,Default,,0,0,0,,Look,
+Dialogue: 0,0:01:15.77,0:01:17.68,Default,,0,0,0,,those five thousand roses
+Dialogue: 0,0:01:17.68,0:01:18.97,Default,,0,0,0,,do look the same.
+Dialogue: 0,0:01:19.27,0:01:21.70,Default,,0,0,0,,But — your rose is the one you
+Dialogue: 0,0:01:21.70,0:01:23.29,Default,,0,0,0,,watered, protected,
+Dialogue: 0,0:01:23.29,0:01:24.45,Default,,0,0,0,,and cared for.
+Dialogue: 0,0:01:24.75,0:01:25.78,Default,,0,0,0,,You listened to her
+Dialogue: 0,0:01:25.78,0:01:27.13,Default,,0,0,0,,complaints and her pride.
+Dialogue: 0,0:01:27.43,0:01:29.47,Default,,0,0,0,,You put a glass cover over her at
+Dialogue: 0,0:01:29.47,0:01:29.85,Default,,0,0,0,,night,
+Dialogue: 0,0:01:29.85,0:01:31.25,Default,,0,0,0,,you worried about her.
+Dialogue: 0,0:01:31.55,0:01:33.34,Default,,0,0,0,,It's the time you spent with her
+Dialogue: 0,0:01:33.34,0:01:34.32,Default,,0,0,0,,that makes her so
+Dialogue: 0,0:01:34.32,0:01:34.89,Default,,0,0,0,,important.
+Dialogue: 0,0:01:35.19,0:01:36.41,Default,,0,0,0,,You truly see only
+Dialogue: 0,0:01:36.41,0:01:37.49,Default,,0,0,0,,with your heart.
+Dialogue: 0,0:01:37.79,0:01:38.89,Default,,0,0,0,,The little prince
+Dialogue: 0,0:01:38.89,0:01:39.53,Default,,0,0,0,,looked up.
+Dialogue: 0,0:01:39.83,0:01:40.04,Default,,0,0,0,,Yes,
+Dialogue: 0,0:01:40.04,0:01:41.37,Default,,0,0,0,,my rose is more important
+Dialogue: 0,0:01:41.37,0:01:42.69,Default,,0,0,0,,than all of you together.
+Dialogue: 0,0:01:42.99,0:01:44.89,Default,,0,0,0,,Because she is MY rose.
+Dialogue: 0,0:01:45.19,0:01:45.65,Default,,0,0,0,,Kids,
+Dialogue: 0,0:01:45.65,0:01:47.83,Default,,0,0,0,,do you have something sp
+Dialogue: 0,0:01:47.83,0:01:48.37,Default,,0,0,0,,ecial?
+Dialogue: 0,0:01:48.67,0:01:51.76,Default,,0,0,0,,Maybe a toy, a drawing,
+Dialogue: 0,0:01:51.76,0:01:53.37,Default,,0,0,0,,or a person.
+Dialogue: 0,0:01:53.67,0:01:56.20,Default,,0,0,0,,It might look ordinary,
+Dialogue: 0,0:01:56.20,0:01:58.36,Default,,0,0,0,,but to you it's one
+Dialogue: 0,0:01:58.36,0:01:59.49,Default,,0,0,0,,of a kind.
+Dialogue: 0,0:01:59.79,0:02:04.96,Default,,0,0,0,,What's your most special thing?
+Dialogue: 0,0:02:04.96,0:02:07.73,Default,,0,0,0,,Tell Qiqi in the
+Dialogue: 0,0:02:07.73,0:02:09.29,Default,,0,0,0,,comments~
+Dialogue: 0,0:02:09.59,0:02:10.65,Default,,0,0,0,,Next time,
+Dialogue: 0,0:02:10.65,0:02:14.93,Default,,0,0,0,,the little prince meets a clever fox who
+Dialogue: 0,0:02:14.93,0:02:16.91,Default,,0,0,0,,will share an even
+Dialogue: 0,0:02:16.91,0:02:18.45,Default,,0,0,0,,bigger secret!
+Dialogue: 0,0:02:18.75,0:02:19.89,Default,,0,0,0,,Good night,
+Dialogue: 0,0:02:19.89,0:02:21.85,Default,,0,0,0,,see you tomorrow~ ⭐

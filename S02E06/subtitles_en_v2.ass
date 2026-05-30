@@ -1,0 +1,104 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.25,Default,,0,0,0,,Hi kids, I'm Qiqi.
+Dialogue: 0,0:00:05.55,0:00:08.66,Default,,0,0,0,,Welcome back to Qiqi Meets
+Dialogue: 0,0:00:08.66,0:00:10.82,Default,,0,0,0,,the Little Prince~
+Dialogue: 0,0:00:11.11,0:00:12.70,Default,,0,0,0,,Last time,
+Dialogue: 0,0:00:12.70,0:00:16.58,Default,,0,0,0,,Qiqi met the lamplighter
+Dialogue: 0,0:00:16.58,0:00:19.17,Default,,0,0,0,,who never rests.
+Dialogue: 0,0:00:19.48,0:00:23.18,Default,,0,0,0,,Persisting in doing the right
+Dialogue: 0,0:00:23.18,0:00:25.03,Default,,0,0,0,,thing is truly
+Dialogue: 0,0:00:25.03,0:00:26.50,Default,,0,0,0,,remarkable!
+Dialogue: 0,0:00:26.80,0:00:27.47,Default,,0,0,0,,Today,
+Dialogue: 0,0:00:27.47,0:00:31.79,Default,,0,0,0,,they arrive at a planet full of books,
+Dialogue: 0,0:00:31.79,0:00:33.44,Default,,0,0,0,,stacked higher
+Dialogue: 0,0:00:33.44,0:00:34.85,Default,,0,0,0,,than houses!
+Dialogue: 0,0:00:35.15,0:00:37.22,Default,,0,0,0,,The little prince and Qiqi
+Dialogue: 0,0:00:37.22,0:00:38.81,Default,,0,0,0,,kept flying forward.
+Dialogue: 0,0:00:39.11,0:00:40.00,Default,,0,0,0,,This time,
+Dialogue: 0,0:00:40.00,0:00:41.90,Default,,0,0,0,,they came to a planet
+Dialogue: 0,0:00:41.90,0:00:43.17,Default,,0,0,0,,full of books.
+Dialogue: 0,0:00:43.47,0:00:44.72,Default,,0,0,0,,So many books!
+Dialogue: 0,0:00:44.72,0:00:46.02,Default,,0,0,0,,Stacked higher
+Dialogue: 0,0:00:46.02,0:00:47.13,Default,,0,0,0,,than houses!
+Dialogue: 0,0:00:47.43,0:00:48.72,Default,,0,0,0,,Qiqi curiously
+Dialogue: 0,0:00:48.72,0:00:49.73,Default,,0,0,0,,opened one.
+Dialogue: 0,0:00:50.03,0:00:50.45,Default,,0,0,0,,Wow,
+Dialogue: 0,0:00:50.45,0:00:53.52,Default,,0,0,0,,it had pictures of mountains,
+Dialogue: 0,0:00:53.52,0:00:55.53,Default,,0,0,0,,rivers, and oceans!
+Dialogue: 0,0:00:55.83,0:00:57.84,Default,,0,0,0,,An old man with round glasses
+Dialogue: 0,0:00:57.84,0:00:59.57,Default,,0,0,0,,sat among the book piles.
+Dialogue: 0,0:00:59.87,0:01:01.77,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:01:02.07,0:01:03.48,Default,,0,0,0,,I'm a geographer.
+Dialogue: 0,0:01:03.48,0:01:05.12,Default,,0,0,0,,I write books about
+Dialogue: 0,0:01:05.12,0:01:05.97,Default,,0,0,0,,the world.
+Dialogue: 0,0:01:06.27,0:01:08.96,Default,,0,0,0,,Then you must know so
+Dialogue: 0,0:01:08.96,0:01:10.49,Default,,0,0,0,,many places!
+Dialogue: 0,0:01:10.79,0:01:11.61,Default,,0,0,0,,Of course,
+Dialogue: 0,0:01:11.61,0:01:13.37,Default,,0,0,0,,I've written them all
+Dialogue: 0,0:01:13.37,0:01:14.37,Default,,0,0,0,,in my books.
+Dialogue: 0,0:01:14.67,0:01:17.40,Default,,0,0,0,,Then you must have been
+Dialogue: 0,0:01:17.40,0:01:19.53,Default,,0,0,0,,to so many places!
+Dialogue: 0,0:01:19.83,0:01:21.32,Default,,0,0,0,,The geographer pushed
+Dialogue: 0,0:01:21.32,0:01:22.37,Default,,0,0,0,,up his glasses.
+Dialogue: 0,0:01:22.67,0:01:22.99,Default,,0,0,0,,Me?
+Dialogue: 0,0:01:22.99,0:01:25.53,Default,,0,0,0,,I've never been outside.
+Dialogue: 0,0:01:25.83,0:01:26.93,Default,,0,0,0,,What?!
+Dialogue: 0,0:01:27.23,0:01:28.91,Default,,0,0,0,,Qiqi's mouth dropped ope
+Dialogue: 0,0:01:28.91,0:01:29.05,Default,,0,0,0,,n.
+Dialogue: 0,0:01:29.35,0:01:31.87,Default,,0,0,0,,Geographers don't go outside.
+Dialogue: 0,0:01:31.87,0:01:33.05,Default,,0,0,0,,We only write
+Dialogue: 0,0:01:33.05,0:01:34.13,Default,,0,0,0,,things down.
+Dialogue: 0,0:01:34.43,0:01:36.82,Default,,0,0,0,,Then who tells you what
+Dialogue: 0,0:01:36.82,0:01:38.89,Default,,0,0,0,,mountains look like?
+Dialogue: 0,0:01:39.19,0:01:40.23,Default,,0,0,0,,Explorers do.
+Dialogue: 0,0:01:40.23,0:01:41.86,Default,,0,0,0,,They go out and see,
+Dialogue: 0,0:01:41.86,0:01:43.04,Default,,0,0,0,,then come back
+Dialogue: 0,0:01:43.04,0:01:44.05,Default,,0,0,0,,and tell me.
+Dialogue: 0,0:01:44.35,0:01:45.35,Default,,0,0,0,,Qiqi thought,
+Dialogue: 0,0:01:45.35,0:01:47.40,Default,,0,0,0,,then ran to the book piles
+Dialogue: 0,0:01:47.40,0:01:48.73,Default,,0,0,0,,and sniffed hard.
+Dialogue: 0,0:01:49.03,0:01:50.08,Default,,0,0,0,,Mmm...
+Dialogue: 0,0:01:50.08,0:01:52.79,Default,,0,0,0,,the books smell
+Dialogue: 0,0:01:52.79,0:01:54.77,Default,,0,0,0,,like paper.
+Dialogue: 0,0:01:55.07,0:01:56.67,Default,,0,0,0,,But they don't
+Dialogue: 0,0:01:56.67,0:01:58.49,Default,,0,0,0,,smell like wind.
+Dialogue: 0,0:01:58.79,0:02:01.40,Default,,0,0,0,,No smell of flowers,
+Dialogue: 0,0:02:01.40,0:02:04.53,Default,,0,0,0,,no smell of rain either.
+Dialogue: 0,0:02:04.83,0:02:05.81,Default,,0,0,0,,The geographer
+Dialogue: 0,0:02:05.81,0:02:06.65,Default,,0,0,0,,was stunned.
+Dialogue: 0,0:02:06.95,0:02:08.83,Default,,0,0,0,,Books hold a lot of knowledge,
+Dialogue: 0,0:02:08.83,0:02:10.75,Default,,0,0,0,,but only by really going there
+Dialogue: 0,0:02:10.75,0:02:12.21,Default,,0,0,0,,can you smell the wind.
+Dialogue: 0,0:02:12.51,0:02:14.25,Default,,0,0,0,,When I grow up,
+Dialogue: 0,0:02:14.25,0:02:16.94,Default,,0,0,0,,I'll go see for myself!
+Dialogue: 0,0:02:16.94,0:02:19.70,Default,,0,0,0,,I'll write the smell of
+Dialogue: 0,0:02:19.70,0:02:22.09,Default,,0,0,0,,wind into books too!
+Dialogue: 0,0:02:22.39,0:02:23.98,Default,,0,0,0,,The geographer smiled and
+Dialogue: 0,0:02:23.98,0:02:25.25,Default,,0,0,0,,picked up his quill.
+Dialogue: 0,0:02:25.55,0:02:27.49,Default,,0,0,0,,Then you'll be an explorer. Go,
+Dialogue: 0,0:02:27.49,0:02:29.70,Default,,0,0,0,,come back and tell me what the wind
+Dialogue: 0,0:02:29.70,0:02:30.75,Default,,0,0,0,,on the mountains
+Dialogue: 0,0:02:30.75,0:02:31.53,Default,,0,0,0,,smells like.
+Dialogue: 0,0:02:31.83,0:02:32.44,Default,,0,0,0,,Kids,
+Dialogue: 0,0:02:32.44,0:02:34.94,Default,,0,0,0,,where would you most
+Dialogue: 0,0:02:34.94,0:02:36.93,Default,,0,0,0,,like to explore?
+Dialogue: 0,0:02:37.23,0:02:40.50,Default,,0,0,0,,Tell Qiqi in the
+Dialogue: 0,0:02:40.50,0:02:42.33,Default,,0,0,0,,comments~
+Dialogue: 0,0:02:42.63,0:02:43.82,Default,,0,0,0,,Next time,
+Dialogue: 0,0:02:43.82,0:02:46.23,Default,,0,0,0,,the little prince is
+Dialogue: 0,0:02:46.23,0:02:49.01,Default,,0,0,0,,finally reaching Earth!
+Dialogue: 0,0:02:49.31,0:02:51.65,Default,,0,0,0,,Good night,
+Dialogue: 0,0:02:51.65,0:02:55.69,Default,,0,0,0,,see you tomorrow~ ⭐

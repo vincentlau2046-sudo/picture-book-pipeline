@@ -1,0 +1,52 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.22,Default,,0,0,0,,嗨，小朋友们，我是琪琪。
+Dialogue: 0,0:00:10.51,0:00:20.73,Default,,0,0,0,,欢迎回到琪琪遇见小王子～
+Dialogue: 0,0:00:21.03,0:00:25.89,Default,,0,0,0,,上一次呀，琪琪遇到了灯人。
+Dialogue: 0,0:00:26.19,0:00:33.29,Default,,0,0,0,,灯人虽然忙，但他的灯让星球变温暖了！
+Dialogue: 0,0:00:33.60,0:00:38.53,Default,,0,0,0,,今天，他们来到一个全是书的星球！
+Dialogue: 0,0:00:38.83,0:00:41.61,Default,,0,0,0,,小王子和琪琪继续往前飞。
+Dialogue: 0,0:00:41.91,0:00:45.49,Default,,0,0,0,,这次，他们来到一个摆满书的星球。
+Dialogue: 0,0:00:45.79,0:00:49.37,Default,,0,0,0,,好多好多书啊！堆得比房子还高！
+Dialogue: 0,0:00:49.67,0:00:52.53,Default,,0,0,0,,琪琪好奇地翻开一本。
+Dialogue: 0,0:00:52.83,0:01:00.65,Default,,0,0,0,,哇，上面画着山，画着河，画着大海！
+Dialogue: 0,0:01:00.95,0:01:05.25,Default,,0,0,0,,一个戴圆眼镜的老爷爷坐在书堆中间。
+Dialogue: 0,0:01:05.55,0:01:08.17,Default,,0,0,0,,你是谁呀？
+Dialogue: 0,0:01:08.47,0:01:12.05,Default,,0,0,0,,我是地理学家呀，专门写书的人。
+Dialogue: 0,0:01:12.35,0:01:15.69,Default,,0,0,0,,那你知道好多好多地方咯？
+Dialogue: 0,0:01:15.99,0:01:19.41,Default,,0,0,0,,当然啦，我都写在书里了。
+Dialogue: 0,0:01:19.71,0:01:22.88,Default,,0,0,0,,那你一定去过好多好多地方吧？
+Dialogue: 0,0:01:23.18,0:01:26.20,Default,,0,0,0,,地理学家推了推眼镜。
+Dialogue: 0,0:01:26.50,0:01:29.04,Default,,0,0,0,,我？我没出去过呀。
+Dialogue: 0,0:01:29.34,0:01:30.84,Default,,0,0,0,,什么？！
+Dialogue: 0,0:01:31.14,0:01:32.42,Default,,0,0,0,,琪琪张大嘴巴。
+Dialogue: 0,0:01:32.72,0:01:37.42,Default,,0,0,0,,地理学家是不出门的，我们只负责记录。
+Dialogue: 0,0:01:37.72,0:01:41.46,Default,,0,0,0,,那谁告诉你山是什么样子呀？
+Dialogue: 0,0:01:41.76,0:01:47.66,Default,,0,0,0,,探险家呀。他们出去看，回来告诉我，我就写下来。
+Dialogue: 0,0:01:47.96,0:01:52.12,Default,,0,0,0,,琪琪想了想，跑到书堆旁边，使劲闻了闻。
+Dialogue: 0,0:01:52.42,0:01:55.60,Default,,0,0,0,,嗯……书上有纸的味道。
+Dialogue: 0,0:01:55.90,0:01:59.16,Default,,0,0,0,,可是没有风的味道呀。
+Dialogue: 0,0:01:59.46,0:02:04.08,Default,,0,0,0,,没有花的味道，也没有雨的味道。
+Dialogue: 0,0:02:04.38,0:02:05.96,Default,,0,0,0,,地理学家愣住了。
+Dialogue: 0,0:02:06.26,0:02:08.96,Default,,0,0,0,,书里有很多知识，可是真正走进去，
+Dialogue: 0,0:02:08.96,0:02:10.48,Default,,0,0,0,,才能闻到风的味道。
+Dialogue: 0,0:02:10.78,0:02:20.52,Default,,0,0,0,,等我长大，我要自己去看！把风的味道也写进书里！
+Dialogue: 0,0:02:20.82,0:02:24.72,Default,,0,0,0,,地理学家笑了，拿起羽毛笔。
+Dialogue: 0,0:02:25.03,0:02:29.08,Default,,0,0,0,,那你要做探险家呀。去吧，回来告诉我，
+Dialogue: 0,0:02:29.08,0:02:31.33,Default,,0,0,0,,山上的风是什么味道。
+Dialogue: 0,0:02:31.62,0:02:36.72,Default,,0,0,0,,小朋友们，你最想去哪里探险呢？
+Dialogue: 0,0:02:37.03,0:02:42.12,Default,,0,0,0,,在评论区告诉琪琪吧～
+Dialogue: 0,0:02:42.43,0:02:47.68,Default,,0,0,0,,下一集呀，小王子终于要来到地球了！
+Dialogue: 0,0:02:47.99,0:02:53.25,Default,,0,0,0,,晚安，明天见～ ⭐

@@ -1,0 +1,60 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:04.71,Default,,0,0,0,,小王子回过头，最后看了一眼他的小星球。
+Dialogue: 0,0:00:04.66,0:00:07.96,Default,,0,0,0,,然后，他在宇宙里飞呀飞。
+Dialogue: 0,0:00:07.96,0:00:12.19,Default,,0,0,0,,第一站，他来到了一个全是房子的星球。
+Dialogue: 0,0:00:12.19,0:00:16.80,Default,,0,0,0,,一个人坐在高高的椅子上，戴着金色的帽子。
+Dialogue: 0,0:00:16.80,0:00:18.74,Default,,0,0,0,,我是这里的国王！
+Dialogue: 0,0:00:18.74,0:00:21.76,Default,,0,0,0,,所有的人都得听我的命令！
+Dialogue: 0,0:00:21.76,0:00:25.96,Default,,0,0,0,,小王子问：那你可以命令太阳落山吗？
+Dialogue: 0,0:00:25.96,0:00:29.96,Default,,0,0,0,,国王想了想……嗯……太阳不太听话。
+Dialogue: 0,0:00:29.96,0:00:33.45,Default,,0,0,0,,那我命令你……问我可不可以落山！
+Dialogue: 0,0:00:33.45,0:00:37.17,Default,,0,0,0,,小王子觉得好奇怪——当了国王，
+Dialogue: 0,0:00:37.17,0:00:39.66,Default,,0,0,0,,也不能让太阳听话呀。
+Dialogue: 0,0:00:39.66,0:00:45.36,Default,,0,0,0,,琪琪小声说——当国王好威风呀，可是没有朋友一起玩，
+Dialogue: 0,0:00:45.36,0:00:47.19,Default,,0,0,0,,会不会很孤单呢？
+Dialogue: 0,0:00:47.19,0:00:50.41,Default,,0,0,0,,第二站，是一个很亮的星球。
+Dialogue: 0,0:00:50.41,0:00:54.66,Default,,0,0,0,,一个人穿着闪亮的衣服，不停地照镜子。
+Dialogue: 0,0:00:54.66,0:00:56.16,Default,,0,0,0,,我帅不帅？
+Dialogue: 0,0:00:56.16,0:00:57.64,Default,,0,0,0,,我帅不帅！
+Dialogue: 0,0:00:57.64,0:01:00.17,Default,,0,0,0,,小王子说：帅呀。
+Dialogue: 0,0:01:00.17,0:01:04.72,Default,,0,0,0,,那个人开心了一秒钟，又问——那你再说说，
+Dialogue: 0,0:01:04.72,0:01:06.54,Default,,0,0,0,,我是不是最帅的？
+Dialogue: 0,0:01:06.54,0:01:10.73,Default,,0,0,0,,小王子走了，那个人还在追着喊——等等！
+Dialogue: 0,0:01:10.73,0:01:12.41,Default,,0,0,0,,我还没听够！
+Dialogue: 0,0:01:12.41,0:01:15.65,Default,,0,0,0,,琪琪嘟了嘟嘴——一直让人夸，
+Dialogue: 0,0:01:15.65,0:01:20.28,Default,,0,0,0,,还不如画一幅画……她用手指在星星上画画，
+Dialogue: 0,0:01:20.28,0:01:24.69,Default,,0,0,0,,画出一朵歪歪扭扭的小花，自己看着笑了。
+Dialogue: 0,0:01:24.69,0:01:28.48,Default,,0,0,0,,妈妈说我画得真用心，那才开心呢！
+Dialogue: 0,0:01:28.48,0:01:32.74,Default,,0,0,0,,小王子坐在自己的小星球上，飞过星空，
+Dialogue: 0,0:01:32.74,0:01:34.63,Default,,0,0,0,,托着腮帮子发呆。
+Dialogue: 0,0:01:34.63,0:01:38.23,Default,,0,0,0,,第三站，是一个数星星的星球。
+Dialogue: 0,0:01:38.23,0:01:41.73,Default,,0,0,0,,一个人坐在那里，数啊数啊。
+Dialogue: 0,0:01:41.73,0:01:46.63,Default,,0,0,0,,五亿一百万……五亿一百万零一……你在做什么呀？
+Dialogue: 0,0:01:46.63,0:01:48.29,Default,,0,0,0,,小王子问。
+Dialogue: 0,0:01:48.29,0:01:49.74,Default,,0,0,0,,数星星！
+Dialogue: 0,0:01:49.74,0:01:51.60,Default,,0,0,0,,它们都是我的！
+Dialogue: 0,0:01:51.60,0:01:53.67,Default,,0,0,0,,你数它们做什么呢？
+Dialogue: 0,0:01:53.67,0:01:55.70,Default,,0,0,0,,为了拥有更多呀！
+Dialogue: 0,0:01:55.70,0:02:00.80,Default,,0,0,0,,小王子想了想——我有一朵玫瑰，我每天给她浇水，
+Dialogue: 0,0:02:00.80,0:02:04.57,Default,,0,0,0,,给她盖玻璃罩，她开花的时候好漂亮！
+Dialogue: 0,0:02:04.57,0:02:07.02,Default,,0,0,0,,那才是真正的喜欢呀。
+Dialogue: 0,0:02:07.02,0:02:11.83,Default,,0,0,0,,光数着数字，又不能抱抱星星，有什么意思呢？
+Dialogue: 0,0:02:11.83,0:02:17.13,Default,,0,0,0,,琪琪什么也没说，只是轻轻地抱了抱身边的小星星。
+Dialogue: 0,0:02:17.13,0:02:20.77,Default,,0,0,0,,小王子抬头看了看远方的星空。
+Dialogue: 0,0:02:20.77,0:02:23.83,Default,,0,0,0,,他想——玫瑰，你还好吗？
+Dialogue: 0,0:02:23.83,0:02:27.32,Default,,0,0,0,,我在别的星球上，学会了很多。
+Dialogue: 0,0:02:27.32,0:02:32.29,Default,,0,0,0,,可是，最想回去的地方……还是你的身边呀。
+Dialogue: 0,0:02:32.29,0:02:37.61,Default,,0,0,0,,小王子转过身，朝回家的方向，迈出了一步。

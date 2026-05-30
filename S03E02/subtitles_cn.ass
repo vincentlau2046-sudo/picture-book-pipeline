@@ -1,0 +1,54 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.66,Default,,0,0,0,,嗨，小朋友们，我是琪琪。
+Dialogue: 0,0:00:03.96,0:00:07.45,Default,,0,0,0,,欢迎回到琪琪遇见爱丽丝～
+Dialogue: 0,0:00:07.75,0:00:13.17,Default,,0,0,0,,上一次呀，琪琪跟着一只穿马甲的白兔子，
+Dialogue: 0,0:00:13.17,0:00:15.74,Default,,0,0,0,,跳进了一个兔子洞！
+Dialogue: 0,0:00:16.03,0:00:23.14,Default,,0,0,0,,哇，好神奇的地方～今天琪琪又发现了什么呢？
+Dialogue: 0,0:00:23.44,0:00:25.76,Default,,0,0,0,,琪琪走进了一条长长的走廊。
+Dialogue: 0,0:00:26.05,0:00:31.00,Default,,0,0,0,,走廊尽头有一张小桌子，上面放着三样东西。
+Dialogue: 0,0:00:31.30,0:00:36.64,Default,,0,0,0,,咦？一瓶药水，上面写着——'喝我'。
+Dialogue: 0,0:00:36.93,0:00:43.32,Default,,0,0,0,,还有一块蛋糕，上面写着——'吃我'。
+Dialogue: 0,0:00:43.61,0:00:48.64,Default,,0,0,0,,角落里还有一把小扇子，好精致呀～
+Dialogue: 0,0:00:48.93,0:00:52.59,Default,,0,0,0,,好奇呀，先喝一口试试！
+Dialogue: 0,0:00:52.89,0:00:55.77,Default,,0,0,0,,琪琪端起药水，咕嘟喝了一口。
+Dialogue: 0,0:00:56.07,0:01:01.11,Default,,0,0,0,,突然——琪琪开始变小，变小，变小！
+Dialogue: 0,0:01:01.41,0:01:10.59,Default,,0,0,0,,哇！我变好小好小！只有茶杯那么大啦！
+Dialogue: 0,0:01:10.89,0:01:15.27,Default,,0,0,0,,变小的琪琪看到小门后面有一个美丽的花园。
+Dialogue: 0,0:01:15.57,0:01:21.63,Default,,0,0,0,,好想进去呀！可是……钥匙在桌子上，我够不到！
+Dialogue: 0,0:01:21.93,0:01:25.99,Default,,0,0,0,,对了！吃蛋糕就能变回去吧？
+Dialogue: 0,0:01:26.29,0:01:29.17,Default,,0,0,0,,琪琪咬了一大口蛋糕。
+Dialogue: 0,0:01:29.47,0:01:33.71,Default,,0,0,0,,这次——琪琪开始变大，变大，再变大！
+Dialogue: 0,0:01:34.01,0:01:41.11,Default,,0,0,0,,哎呀！我变得好大好大！头都顶到天花板啦！
+Dialogue: 0,0:01:41.41,0:01:44.99,Default,,0,0,0,,嘿嘿，我变成巨人了！
+Dialogue: 0,0:01:45.29,0:01:49.85,Default,,0,0,0,,琪琪太大了，手一挥，书架哗啦啦倒下来！
+Dialogue: 0,0:01:50.15,0:01:52.93,Default,,0,0,0,,闹钟飞起来！茶杯滚一地！
+Dialogue: 0,0:01:53.23,0:01:56.65,Default,,0,0,0,,对不起对不起！我不是故意的！
+Dialogue: 0,0:01:56.95,0:02:01.27,Default,,0,0,0,,琪琪想出门，可是身体太大，卡在门框里。
+Dialogue: 0,0:02:01.57,0:02:06.27,Default,,0,0,0,,出不去……我该怎么办呀……
+Dialogue: 0,0:02:06.57,0:02:20.15,Default,,0,0,0,,呜……闯祸了……
+Dialogue: 0,0:02:20.45,0:02:24.61,Default,,0,0,0,,琪琪急得快哭了。她坐下来，想呀想。
+Dialogue: 0,0:02:24.91,0:02:28.33,Default,,0,0,0,,突然，她看到桌角有一把小扇子。
+Dialogue: 0,0:02:28.63,0:02:33.57,Default,,0,0,0,,这是什么时候放在这里的？让我试试！
+Dialogue: 0,0:02:33.87,0:02:36.83,Default,,0,0,0,,琪琪拿起扇子，轻轻扇了扇。
+Dialogue: 0,0:02:37.13,0:02:42.23,Default,,0,0,0,,奇妙的事情发生了——琪琪慢慢变回原来的大小！
+Dialogue: 0,0:02:42.53,0:02:48.12,Default,,0,0,0,,我变回来啦！不大不小，刚刚好！
+Dialogue: 0,0:02:48.41,0:02:52.34,Default,,0,0,0,,琪琪用钥匙打开小门，走进了美丽的花园。
+Dialogue: 0,0:02:52.63,0:02:58.48,Default,,0,0,0,,原来，着急做决定的时候，停下来想一想，
+Dialogue: 0,0:02:58.48,0:03:00.93,Default,,0,0,0,,答案就在身边呢。
+Dialogue: 0,0:03:01.24,0:03:08.58,Default,,0,0,0,,小朋友们，如果你能变大或变小，你想变成什么样？
+Dialogue: 0,0:03:08.87,0:03:11.84,Default,,0,0,0,,在评论区告诉琪琪吧～
+Dialogue: 0,0:03:12.13,0:03:18.03,Default,,0,0,0,,下一集呀，琪琪迷路了，遇到了一只会笑的猫！
+Dialogue: 0,0:03:18.34,0:03:20.63,Default,,0,0,0,,晚安，明天见～ 🌈

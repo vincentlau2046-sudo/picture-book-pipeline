@@ -1,0 +1,119 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:02.69,Default,,0,0,0,,The Little Prince looked back one
+Dialogue: 0,0:00:02.69,0:00:03.99,Default,,0,0,0,,last time at his
+Dialogue: 0,0:00:03.99,0:00:04.97,Default,,0,0,0,,tiny planet.
+Dialogue: 0,0:00:04.92,0:00:05.45,Default,,0,0,0,,Then,
+Dialogue: 0,0:00:05.45,0:00:07.12,Default,,0,0,0,,he flew through
+Dialogue: 0,0:00:07.12,0:00:08.23,Default,,0,0,0,,the stars.
+Dialogue: 0,0:00:08.23,0:00:08.81,Default,,0,0,0,,First,
+Dialogue: 0,0:00:08.81,0:00:10.98,Default,,0,0,0,,he arrived at a planet
+Dialogue: 0,0:00:10.98,0:00:12.47,Default,,0,0,0,,full of houses.
+Dialogue: 0,0:00:12.47,0:00:14.95,Default,,0,0,0,,A man sat on a tall chair,
+Dialogue: 0,0:00:14.95,0:00:16.95,Default,,0,0,0,,wearing a golden hat.
+Dialogue: 0,0:00:16.95,0:00:19.01,Default,,0,0,0,,I am the King!
+Dialogue: 0,0:00:19.01,0:00:20.90,Default,,0,0,0,,Everyone must obey
+Dialogue: 0,0:00:20.90,0:00:22.16,Default,,0,0,0,,my commands!
+Dialogue: 0,0:00:22.16,0:00:24.05,Default,,0,0,0,,The Little Prince asked,
+Dialogue: 0,0:00:24.05,0:00:25.67,Default,,0,0,0,,Then can you command
+Dialogue: 0,0:00:25.67,0:00:26.89,Default,,0,0,0,,the sun to set?
+Dialogue: 0,0:00:26.89,0:00:28.63,Default,,0,0,0,,The King thought for
+Dialogue: 0,0:00:28.63,0:00:29.58,Default,,0,0,0,,a moment...
+Dialogue: 0,0:00:29.58,0:00:30.96,Default,,0,0,0,,Hmm...
+Dialogue: 0,0:00:30.96,0:00:32.43,Default,,0,0,0,,the sun doesn't
+Dialogue: 0,0:00:32.43,0:00:34.08,Default,,0,0,0,,listen very well.
+Dialogue: 0,0:00:34.08,0:00:35.99,Default,,0,0,0,,Then I command you...
+Dialogue: 0,0:00:35.99,0:00:38.26,Default,,0,0,0,,to ask me if you may set!
+Dialogue: 0,0:00:38.26,0:00:40.25,Default,,0,0,0,,The Little Prince thought
+Dialogue: 0,0:00:40.25,0:00:41.99,Default,,0,0,0,,this was very strange.
+Dialogue: 0,0:00:41.99,0:00:44.04,Default,,0,0,0,,Even a King can't make
+Dialogue: 0,0:00:44.04,0:00:45.24,Default,,0,0,0,,the sun obey.
+Dialogue: 0,0:00:45.24,0:00:47.96,Default,,0,0,0,,Qiqi whispered — Being a King
+Dialogue: 0,0:00:47.96,0:00:49.83,Default,,0,0,0,,must be so powerful!
+Dialogue: 0,0:00:49.83,0:00:52.25,Default,,0,0,0,,But with no friends to play with..
+Dialogue: 0,0:00:52.25,0:00:53.95,Default,,0,0,0,,. wouldn't it be lonely?
+Dialogue: 0,0:00:53.95,0:00:54.46,Default,,0,0,0,,Next,
+Dialogue: 0,0:00:54.46,0:00:56.27,Default,,0,0,0,,he came to a very
+Dialogue: 0,0:00:56.27,0:00:57.76,Default,,0,0,0,,bright planet.
+Dialogue: 0,0:00:57.76,0:01:00.05,Default,,0,0,0,,A man wore shiny clothes and
+Dialogue: 0,0:01:00.05,0:01:01.32,Default,,0,0,0,,kept looking in
+Dialogue: 0,0:01:01.32,0:01:02.26,Default,,0,0,0,,the mirror.
+Dialogue: 0,0:01:02.26,0:01:04.23,Default,,0,0,0,,Am I handsome?
+Dialogue: 0,0:01:04.23,0:01:06.20,Default,,0,0,0,,Am I handsome?
+Dialogue: 0,0:01:06.20,0:01:08.61,Default,,0,0,0,,The Little Prince said,
+Dialogue: 0,0:01:08.61,0:01:09.96,Default,,0,0,0,,Yes, you are.
+Dialogue: 0,0:01:09.96,0:01:12.56,Default,,0,0,0,,The man was happy for one second,
+Dialogue: 0,0:01:12.56,0:01:14.64,Default,,0,0,0,,then asked — Then tell me,
+Dialogue: 0,0:01:14.64,0:01:16.48,Default,,0,0,0,,am I the most handsome?
+Dialogue: 0,0:01:16.48,0:01:18.92,Default,,0,0,0,,The Little Prince walked away,
+Dialogue: 0,0:01:18.92,0:01:20.43,Default,,0,0,0,,and the man chased
+Dialogue: 0,0:01:20.43,0:01:21.85,Default,,0,0,0,,after him — Wait!
+Dialogue: 0,0:01:21.85,0:01:24.21,Default,,0,0,0,,I haven't heard enough!
+Dialogue: 0,0:01:24.21,0:01:26.22,Default,,0,0,0,,Qiqi pouted — Always
+Dialogue: 0,0:01:26.22,0:01:27.92,Default,,0,0,0,,wanting praise...
+Dialogue: 0,0:01:27.92,0:01:29.62,Default,,0,0,0,,I'd rather draw a
+Dialogue: 0,0:01:29.62,0:01:30.63,Default,,0,0,0,,picture...
+Dialogue: 0,0:01:30.63,0:01:33.56,Default,,0,0,0,,She used her finger to draw on a star,
+Dialogue: 0,0:01:33.56,0:01:35.29,Default,,0,0,0,,making a wobbly little
+Dialogue: 0,0:01:35.29,0:01:35.86,Default,,0,0,0,,flower,
+Dialogue: 0,0:01:35.86,0:01:37.26,Default,,0,0,0,,and smiled at it.
+Dialogue: 0,0:01:37.26,0:01:39.18,Default,,0,0,0,,Mom says You really put
+Dialogue: 0,0:01:39.18,0:01:40.76,Default,,0,0,0,,your heart into it.
+Dialogue: 0,0:01:40.76,0:01:42.43,Default,,0,0,0,,That's what makes
+Dialogue: 0,0:01:42.43,0:01:43.32,Default,,0,0,0,,me happy!
+Dialogue: 0,0:01:43.32,0:01:46.31,Default,,0,0,0,,The Little Prince sat on his tiny planet,
+Dialogue: 0,0:01:46.31,0:01:48.32,Default,,0,0,0,,drifting through the stars,
+Dialogue: 0,0:01:48.32,0:01:49.56,Default,,0,0,0,,resting his chin
+Dialogue: 0,0:01:49.56,0:01:50.48,Default,,0,0,0,,on his hand.
+Dialogue: 0,0:01:50.48,0:01:52.52,Default,,0,0,0,,The third planet had a
+Dialogue: 0,0:01:52.52,0:01:54.29,Default,,0,0,0,,man counting stars.
+Dialogue: 0,0:01:54.29,0:01:55.62,Default,,0,0,0,,He sat there,
+Dialogue: 0,0:01:55.62,0:01:57.86,Default,,0,0,0,,counting and counting.
+Dialogue: 0,0:01:57.86,0:02:00.17,Default,,0,0,0,,Five hundred and one million...
+Dialogue: 0,0:02:00.17,0:02:01.69,Default,,0,0,0,,five hundred and one
+Dialogue: 0,0:02:01.69,0:02:03.07,Default,,0,0,0,,million and one...
+Dialogue: 0,0:02:03.07,0:02:05.14,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:02:05.14,0:02:07.70,Default,,0,0,0,,the Little Prince asked.
+Dialogue: 0,0:02:07.70,0:02:09.88,Default,,0,0,0,,Counting stars!
+Dialogue: 0,0:02:09.88,0:02:11.95,Default,,0,0,0,,They're all mine!
+Dialogue: 0,0:02:11.95,0:02:13.65,Default,,0,0,0,,What do you count
+Dialogue: 0,0:02:13.65,0:02:14.55,Default,,0,0,0,,them for?
+Dialogue: 0,0:02:14.55,0:02:17.57,Default,,0,0,0,,To own more, of course!
+Dialogue: 0,0:02:17.57,0:02:19.76,Default,,0,0,0,,The Little Prince thought
+Dialogue: 0,0:02:19.76,0:02:21.17,Default,,0,0,0,,— I have a rose.
+Dialogue: 0,0:02:21.17,0:02:23.71,Default,,0,0,0,,I water her every day and cover
+Dialogue: 0,0:02:23.71,0:02:25.51,Default,,0,0,0,,her with a glass dome.
+Dialogue: 0,0:02:25.51,0:02:27.10,Default,,0,0,0,,When she blooms,
+Dialogue: 0,0:02:27.10,0:02:28.98,Default,,0,0,0,,she's so beautiful!
+Dialogue: 0,0:02:28.98,0:02:31.15,Default,,0,0,0,,That's what truly loving
+Dialogue: 0,0:02:31.15,0:02:32.60,Default,,0,0,0,,something means.
+Dialogue: 0,0:02:32.60,0:02:34.96,Default,,0,0,0,,Just counting numbers — you
+Dialogue: 0,0:02:34.96,0:02:36.88,Default,,0,0,0,,can't even hug a star.
+Dialogue: 0,0:02:36.88,0:02:39.04,Default,,0,0,0,,What's the point?
+Dialogue: 0,0:02:39.04,0:02:41.44,Default,,0,0,0,,Qiqi said nothing.
+Dialogue: 0,0:02:41.44,0:02:43.49,Default,,0,0,0,,She just gently hugged the
+Dialogue: 0,0:02:43.49,0:02:45.30,Default,,0,0,0,,little star beside her.
+Dialogue: 0,0:02:45.30,0:02:47.40,Default,,0,0,0,,The Little Prince looked up
+Dialogue: 0,0:02:47.40,0:02:49.02,Default,,0,0,0,,at the distant stars.
+Dialogue: 0,0:02:49.02,0:02:51.06,Default,,0,0,0,,He thought — Rose,
+Dialogue: 0,0:02:51.06,0:02:52.52,Default,,0,0,0,,are you okay?
+Dialogue: 0,0:02:52.52,0:02:54.58,Default,,0,0,0,,I've learned so much on
+Dialogue: 0,0:02:54.58,0:02:55.83,Default,,0,0,0,,other planets.
+Dialogue: 0,0:02:55.83,0:02:58.39,Default,,0,0,0,,But the place I want to return to
+Dialogue: 0,0:02:58.39,0:02:58.95,Default,,0,0,0,,most...
+Dialogue: 0,0:02:58.95,0:03:00.71,Default,,0,0,0,,is right by your side.
+Dialogue: 0,0:03:00.71,0:03:03.19,Default,,0,0,0,,The Little Prince turned around,
+Dialogue: 0,0:03:03.19,0:03:04.55,Default,,0,0,0,,and took one step
+Dialogue: 0,0:03:04.55,0:03:05.51,Default,,0,0,0,,toward home.

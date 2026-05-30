@@ -1,0 +1,106 @@
+[Script Info]
+Title: 琪琪的魔法故事屋
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans CJK SC,80,&H00FFE4B5,&H000000FF,&H00332211,&H80000000,0,0,0,0,100,100,0,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.10,Default,,0,0,0,,Hi, little friends,
+Dialogue: 0,0:00:02.10,0:00:03.10,Default,,0,0,0,,I'm Kiki.
+Dialogue: 0,0:00:03.39,0:00:07.56,Default,,0,0,0,,Today the storybook opened to a page
+Dialogue: 0,0:00:07.56,0:00:09.71,Default,,0,0,0,,full of stars Wow,
+Dialogue: 0,0:00:09.71,0:00:11.38,Default,,0,0,0,,so many stars!
+Dialogue: 0,0:00:11.67,0:00:13.06,Default,,0,0,0,,Kiki met a little boy
+Dialogue: 0,0:00:13.06,0:00:14.06,Default,,0,0,0,,from the stars.
+Dialogue: 0,0:00:14.35,0:00:15.68,Default,,0,0,0,,His name is...
+Dialogue: 0,0:00:15.68,0:00:17.37,Default,,0,0,0,,the Little Prince!
+Dialogue: 0,0:00:17.67,0:00:20.26,Default,,0,0,0,,The Little Prince lived on a
+Dialogue: 0,0:00:20.26,0:00:22.37,Default,,0,0,0,,very, very tiny planet.
+Dialogue: 0,0:00:22.67,0:00:24.01,Default,,0,0,0,,There was only him.
+Dialogue: 0,0:00:24.32,0:00:25.73,Default,,0,0,0,,And... a rose.
+Dialogue: 0,0:00:26.03,0:00:27.16,Default,,0,0,0,,This rose was so
+Dialogue: 0,0:00:27.16,0:00:27.85,Default,,0,0,0,,beautiful.
+Dialogue: 0,0:00:28.16,0:00:30.37,Default,,0,0,0,,Red petals, so soft.
+Dialogue: 0,0:00:30.67,0:00:32.03,Default,,0,0,0,,The Little Prince
+Dialogue: 0,0:00:32.03,0:00:33.78,Default,,0,0,0,,watered her every day.
+Dialogue: 0,0:00:34.07,0:00:35.01,Default,,0,0,0,,You should drink
+Dialogue: 0,0:00:35.01,0:00:35.65,Default,,0,0,0,,more water.
+Dialogue: 0,0:00:35.95,0:00:37.26,Default,,0,0,0,,He even made a glass
+Dialogue: 0,0:00:37.26,0:00:38.17,Default,,0,0,0,,cover for her.
+Dialogue: 0,0:00:38.47,0:00:39.59,Default,,0,0,0,,So the wind won't
+Dialogue: 0,0:00:39.59,0:00:40.37,Default,,0,0,0,,blow on you.
+Dialogue: 0,0:00:40.67,0:00:42.01,Default,,0,0,0,,But the rose was a
+Dialogue: 0,0:00:42.01,0:00:42.89,Default,,0,0,0,,bit spoiled.
+Dialogue: 0,0:00:43.19,0:00:44.20,Default,,0,0,0,,I'm so cold,
+Dialogue: 0,0:00:44.20,0:00:46.05,Default,,0,0,0,,please open the cover.
+Dialogue: 0,0:00:46.35,0:00:46.60,Default,,0,0,0,,No,
+Dialogue: 0,0:00:46.60,0:00:47.87,Default,,0,0,0,,the wind is too
+Dialogue: 0,0:00:47.87,0:00:49.13,Default,,0,0,0,,strong outside!
+Dialogue: 0,0:00:49.43,0:00:49.78,Default,,0,0,0,,Hmph,
+Dialogue: 0,0:00:49.78,0:00:50.76,Default,,0,0,0,,you don't care
+Dialogue: 0,0:00:50.76,0:00:51.89,Default,,0,0,0,,about me at all!
+Dialogue: 0,0:00:52.19,0:00:53.54,Default,,0,0,0,,The Little Prince
+Dialogue: 0,0:00:53.54,0:00:54.41,Default,,0,0,0,,was so sad.
+Dialogue: 0,0:00:54.71,0:00:55.55,Default,,0,0,0,,He didn't know
+Dialogue: 0,0:00:55.55,0:00:56.21,Default,,0,0,0,,what to do.
+Dialogue: 0,0:00:56.51,0:00:58.81,Default,,0,0,0,,The Little Prince decided to leave
+Dialogue: 0,0:00:58.81,0:01:00.00,Default,,0,0,0,,the planet and go
+Dialogue: 0,0:01:00.00,0:01:00.97,Default,,0,0,0,,see the world.
+Dialogue: 0,0:01:01.27,0:01:03.37,Default,,0,0,0,,When the rose saw him leaving,
+Dialogue: 0,0:01:03.37,0:01:04.69,Default,,0,0,0,,her petals drooped.
+Dialogue: 0,0:01:04.99,0:01:05.61,Default,,0,0,0,,Just go...
+Dialogue: 0,0:01:05.91,0:01:07.41,Default,,0,0,0,,I don't need you.
+Dialogue: 0,0:01:07.71,0:01:09.01,Default,,0,0,0,,But Kiki saw...
+Dialogue: 0,0:01:09.01,0:01:10.51,Default,,0,0,0,,the rose secretly
+Dialogue: 0,0:01:10.51,0:01:11.93,Default,,0,0,0,,shed a teardrop.
+Dialogue: 0,0:01:12.23,0:01:13.69,Default,,0,0,0,,And the Little Prince kept
+Dialogue: 0,0:01:13.69,0:01:15.09,Default,,0,0,0,,looking back a few times.
+Dialogue: 0,0:01:15.39,0:01:17.11,Default,,0,0,0,,Kiki ran over and gently
+Dialogue: 0,0:01:17.11,0:01:18.33,Default,,0,0,0,,touched the rose.
+Dialogue: 0,0:01:18.63,0:01:20.61,Default,,0,0,0,,Do you miss him already?
+Dialogue: 0,0:01:20.91,0:01:22.49,Default,,0,0,0,,The rose shook her head.
+Dialogue: 0,0:01:22.79,0:01:23.73,Default,,0,0,0,,Not at all...
+Dialogue: 0,0:01:24.03,0:01:25.23,Default,,0,0,0,,But her petals were
+Dialogue: 0,0:01:25.23,0:01:25.85,Default,,0,0,0,,trembling.
+Dialogue: 0,0:01:26.15,0:01:27.33,Default,,0,0,0,,Kiki thought about it.
+Dialogue: 0,0:01:27.63,0:01:29.07,Default,,0,0,0,,My mom sometimes
+Dialogue: 0,0:01:29.07,0:01:30.41,Default,,0,0,0,,gets angry too.
+Dialogue: 0,0:01:30.71,0:01:31.65,Default,,0,0,0,,But she doesn't
+Dialogue: 0,0:01:31.65,0:01:32.77,Default,,0,0,0,,really dislike me.
+Dialogue: 0,0:01:33.07,0:01:34.59,Default,,0,0,0,,She just wants me to say 'I
+Dialogue: 0,0:01:34.59,0:01:35.77,Default,,0,0,0,,love you' more often.
+Dialogue: 0,0:01:36.07,0:01:38.08,Default,,0,0,0,,Kiki called out to the Little
+Dialogue: 0,0:01:38.08,0:01:39.73,Default,,0,0,0,,Prince — 'Little Prince!
+Dialogue: 0,0:01:40.03,0:01:41.61,Default,,0,0,0,,You haven't said goodbye
+Dialogue: 0,0:01:41.61,0:01:42.65,Default,,0,0,0,,to the rose yet!
+Dialogue: 0,0:01:42.95,0:01:43.97,Default,,0,0,0,,The Little Prince
+Dialogue: 0,0:01:43.97,0:01:44.45,Default,,0,0,0,,stopped.
+Dialogue: 0,0:01:44.75,0:01:46.05,Default,,0,0,0,,He turned around,
+Dialogue: 0,0:01:46.05,0:01:49.23,Default,,0,0,0,,and gently said to the rose — 'I'm sorry,
+Dialogue: 0,0:01:49.23,0:01:50.26,Default,,0,0,0,,I should have
+Dialogue: 0,0:01:50.26,0:01:51.93,Default,,0,0,0,,listened to you more.
+Dialogue: 0,0:01:52.23,0:01:53.99,Default,,0,0,0,,The rose's petals finally
+Dialogue: 0,0:01:53.99,0:01:55.25,Default,,0,0,0,,stopped trembling.
+Dialogue: 0,0:01:55.55,0:01:56.04,Default,,0,0,0,,You...
+Dialogue: 0,0:01:56.04,0:01:57.15,Default,,0,0,0,,be careful on
+Dialogue: 0,0:01:57.15,0:01:58.25,Default,,0,0,0,,your journey.
+Dialogue: 0,0:01:58.55,0:02:00.53,Default,,0,0,0,,The Little Prince nodded.
+Dialogue: 0,0:02:00.83,0:02:01.85,Default,,0,0,0,,I will come back.
+Dialogue: 0,0:02:02.15,0:02:03.47,Default,,0,0,0,,I promise I will
+Dialogue: 0,0:02:03.47,0:02:04.29,Default,,0,0,0,,come back.
+Dialogue: 0,0:02:04.59,0:02:06.01,Default,,0,0,0,,Kiki watched the Little
+Dialogue: 0,0:02:06.01,0:02:07.05,Default,,0,0,0,,Prince walk away.
+Dialogue: 0,0:02:07.35,0:02:10.22,Default,,0,0,0,,She thought — the people you love the most are
+Dialogue: 0,0:02:10.22,0:02:11.74,Default,,0,0,0,,sometimes the hardest to
+Dialogue: 0,0:02:11.74,0:02:13.01,Default,,0,0,0,,speak your heart to.
+Dialogue: 0,0:02:13.31,0:02:14.62,Default,,0,0,0,,Little friends,
+Dialogue: 0,0:02:14.62,0:02:16.24,Default,,0,0,0,,who do you cherish
+Dialogue: 0,0:02:16.24,0:02:17.05,Default,,0,0,0,,the most?
+Dialogue: 0,0:02:17.35,0:02:19.73,Default,,0,0,0,,Go tell them 'I love you
